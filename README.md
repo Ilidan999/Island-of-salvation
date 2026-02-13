@@ -56,16 +56,19 @@ python Лабораторные/1ЛР.ipnb
 
 ---
 
-## 👤 Об авторе
-| <img src="https://github.com/SeregaPl.png" width="100px;"/> | <img src="https://github.com/Ilidan999.png" width="100px;"/> |
+## 👤 Об авторах
+
+| <img src="https://github.com/Ilidan999.png" width="100px;"/> | <img src="https://github.com/SeregaPl.png" width="100px;"/> |
 | :---: | :---: |
-| **SeregaPl** | **Ilidan** |
-| [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)](https://github.com/SeregaPl) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)](https://github.com/Ilidan999) |
+| **Ilidan** | **SeregaPlIlidan** |
+| [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)](https://github.com/Ilidan999) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)](https://github.com/SeregaPl) |
 
 **Ilidan999** - *Creator* 
+
+**SeregaPl** - *Cteator* 
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ilidan999)
 
 ---
 
-*Если этот репозиторий помог тебе, поставь **Star** ⭐ — мне будет приятно!*
+*Если этот репозиторий помог тебе, поставь **Star** ⭐ — нам будет приятно!*
