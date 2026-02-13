@@ -60,7 +60,7 @@ python Лабораторные/1ЛР.ipnb
 
 | <img src="https://github.com/Ilidan999.png" width="100px;"/> | <img src="https://github.com/SeregaPl.png" width="100px;"/> |
 | :---: | :---: |
-| **Ilidan** | **SeregaPlIlidan** |
+| **Ilidan** | **SeregaPl** |
 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)](https://github.com/Ilidan999) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)](https://github.com/SeregaPl) |
 
 **Ilidan999** - *Creator* 
