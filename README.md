@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/python-3.x-blue.svg?style=for-the-badge&logo=python)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-orange?style=for-the-badge)
 
-Добро пожаловать! В этом репозитории я храню свои лабораторные работы. Весь код написан на языке **Python** с акцентом на чистоту и понятность.
+Добро пожаловать! В этом репозитории хранятся все лабораторные работы. Весь код написан на языке **Python** с акцентом на чистоту и понятность.
 
 ---
 
