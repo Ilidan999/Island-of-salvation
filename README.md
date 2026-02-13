@@ -57,8 +57,10 @@ python Лабораторные/1ЛР.ipnb
 ---
 
 ## 👤 Об авторе
-
-![Avatar](https://github.com/Ilidan999.png?size=100)
+| <img src="https://github.com/SeregaPl.png" width="100px;"/> | <img src="https://github.com/Ilidan999.png" width="100px;"/> |
+| :---: | :---: |
+| **SeregaPl** | **Ilidan** |
+| [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)](https://github.com/SeregaPl) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)](https://github.com/Ilidan999) |
 
 **Ilidan999** - *Creator* 
 
