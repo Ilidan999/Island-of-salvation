@@ -99,12 +99,7 @@ jupyter notebook
 | :---: |:-----------------------------------------------------------------------------------------------------------:| :---: |
 | **Ilidan** |                                                **SeregaP29**                                                | **dkzzum** |
 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)](https://github.com/Ilidan999) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)](https://github.com/SeregaPl) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)](https://github.com/dkzzum) |
-
-**Ilidan999** - *Creator* 
-
-**SeregaP29** - *Creator* 
-
-**dkzzum** - *Creator* 
+| *Creator* | *Creator* | *Creator*  |
 
 [![GitHub](https://img.shields.io/badge/GitHui-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ilidan999)
 ---
