@@ -1,0 +1,1002 @@
+﻿YearMade;WallType;RoofType;NumOfBedrooms;StovenFuelType;HeatingEquipmentType;HeatingEquipmentAge;NumOfRoomsHeated;FuelUsedForWaterHeating;WaterHeaterSize;AirConditioning;NumOfRoomsCooled;NumOfWindows;TotalSquareHeated;TotalSquareCooled;ElectricityConsumption
+2004;Brick;Composition Shingles;4;Electricity;Central Warm-Air Furnace;5-9 Years old;9;Electricity;Large;ИСТИНА;9;41;3958;3958;18466
+1998;Wood;Wood Shingles;3;Natural Gas;Central Warm-Air Furnace;10-14 Years old;4;Natural Gas;Large;ИСТИНА;4;41;2736;2736;5148
+1965;Brick;;1;Natural Gas;Steam or Hot Water System;2-4 Years old;2;Natural Gas;Large;ИСТИНА;-1;20;528;264;2218
+1985;Stone;Composition Shingles;3;-;Central Warm-Air Furnace;5-9 Years old;7;Electricity;Large;ИСТИНА;7;41;1623;1623;10015
+1983;Wood;Composition Shingles;2;Electricity;Central Warm-Air Furnace;<2 Years old;5;Natural Gas;Medium;ЛОЖЬ;-1;30;1274;0;2869
+1920;Stucco;Asphalt;3;Natural Gas;Central Warm-Air Furnace;10-14 Years old;6;Natural Gas;Medium;ИСТИНА;3;30;3485;1538;6387
+1922;Siding;Asphalt;4;Natural Gas;Steam or Hot Water System;15-19 Years old;7;Natural Gas;Medium;ИСТИНА;7;50;2296;1938;11821
+1975;Concrete;Asphalt;3;Electricity;Heat Pump;5-9 Years old;6;Electricity;Medium;ИСТИНА;6;20;1952;1952;22928
+1920;Wood;Composition Shingles;3;Natural Gas;Heat Pump;<2 Years old;7;Electricity;Medium;ИСТИНА;7;42;1117;1117;9130
+1955;Siding;Asphalt;3;Electricity;Central Warm-Air Furnace;10-14 Years old;7;Natural Gas;Small;ИСТИНА;6;41;1365;1170;7474
+1950;Brick;Ceramic or Clay Tiles;2;Natural Gas;Built-In Room Heater;10-14 Years old;1;Natural Gas;Medium;ЛОЖЬ;-1;20;244;0;2750
+1968;Wood;Asphalt;3;Natural Gas;Central Warm-Air Furnace;10-14 Years old;7;Natural Gas;Large;ИСТИНА;7;50;1935;1456;11807
+1950;Wood;Composition Shingles;3;Electricity;;Not Applicable;-2;Electricity;Medium;ЛОЖЬ;-1;42;0;0;9775
+1980;Siding;;2;Electricity;Central Warm-Air Furnace;5-9 Years old;4;Electricity;Small;ИСТИНА;4;10;809;809;6335
+1985;Brick;;-2;Electricity;Central Warm-Air Furnace;2-4 Years old;1;Natural Gas;Small;ИСТИНА;1;10;411;411;4031
+1993;Siding;Composition Shingles;4;Electricity;Central Warm-Air Furnace;10-14 Years old;9;Electricity;Large;ИСТИНА;9;42;3680;3680;13020
+1963;Siding;Composition Shingles;3;-;;Not Applicable;-2;Not Applicable;None;ИСТИНА;-1;41;0;247;2079
+1940;Stone;Other;1;Natural Gas;Steam or Hot Water System;10-14 Years old;3;Natural Gas;Large;ЛОЖЬ;-1;41;592;0;2477
+1992;Siding;Wood Shingles;2;Natural Gas;Central Warm-Air Furnace;2-4 Years old;5;Natural Gas;Medium;ЛОЖЬ;-1;41;1107;0;6877
+1988;Siding;Asphalt;3;Electricity;Central Warm-Air Furnace;>20 Years old;12;Natural Gas;Large;ИСТИНА;12;42;3213;3213;12497
+1958;Stucco;Composition Shingles;4;Natural Gas;Central Warm-Air Furnace;15-19 Years old;6;Natural Gas;Medium;ИСТИНА;6;30;2768;2768;12200
+1972;Siding;Composition Shingles;3;Natural Gas;Central Warm-Air Furnace;15-19 Years old;6;Natural Gas;Medium;ИСТИНА;-1;30;1584;528;9187
+1950;Composition;Composition Shingles;2;-;Central Warm-Air Furnace;5-9 Years old;4;Fuel Oil;None;ЛОЖЬ;-1;42;3042;0;13984
+2000;Stucco;Ceramic or Clay Tiles;4;Natural Gas;Heat Pump;10-14 Years old;8;Natural Gas;Large;ИСТИНА;8;41;3184;3184;4413
+1975;Siding;Asphalt;5;Electricity;Central Warm-Air Furnace;>20 Years old;9;Electricity;Medium;ИСТИНА;9;41;4055;3650;19041
+1920;Siding;Asphalt;3;Natural Gas;Steam or Hot Water System;>20 Years old;5;Natural Gas;Medium;ЛОЖЬ;-1;41;663;0;3125
+1991;Brick;;2;Electricity;Built-In Electric Units;15-19 Years old;5;Electricity;Medium;ИСТИНА;-1;41;2781;556;11688
+1928;Wood;Composition Shingles;2;Natural Gas;Built-In Room Heater;>20 Years old;1;Natural Gas;Medium;ЛОЖЬ;-1;30;209;0;2170
+1972;Siding;Metal;1;Electricity;;>20 Years old;-2;Electricity;Small;ИСТИНА;-1;60;0;200;2447
+2000;Brick;Composition Shingles;3;Electricity;Central Warm-Air Furnace;10-14 Years old;4;Electricity;Large;ЛОЖЬ;-1;41;1149;0;13137
+1978;Siding;Composition Shingles;3;Electricity;Central Warm-Air Furnace;10-14 Years old;7;Fuel Oil;Large;ИСТИНА;4;41;1365;624;11009
+1970;Stucco;Wood Shingles;2;Electricity;;>20 Years old;-2;Electricity;Small;ЛОЖЬ;-1;20;0;0;6925
+1976;Stucco;Composition Shingles;3;Electricity;Central Warm-Air Furnace;>20 Years old;7;Electricity;Medium;ИСТИНА;7;41;900;900;32493
+1980;Wood;Composition Shingles;2;Electricity;Central Warm-Air Furnace;5-9 Years old;5;Electricity;Medium;ИСТИНА;5;30;1342;1342;3222
+1980;Stone;Composition Shingles;3;Electricity;Heat Pump;15-19 Years old;7;Electricity;Large;ИСТИНА;7;30;1598;1598;20250
+1964;Siding;Composition Shingles;4;Electricity;Central Warm-Air Furnace;15-19 Years old;4;Electricity;Medium;ИСТИНА;4;30;971;971;19950
+1983;Siding;Asphalt;3;-;Heat Pump;2-4 Years old;8;Electricity;Large;ИСТИНА;8;50;3422;3422;36967
+1970;Wood;Composition Shingles;3;Electricity;Central Warm-Air Furnace;5-9 Years old;7;Natural Gas;None;ИСТИНА;7;41;3120;3120;7435
+2000;Siding;Composition Shingles;3;Electricity;Central Warm-Air Furnace;5-9 Years old;5;Electricity;Medium;ИСТИНА;5;41;1488;1488;31973
+1995;Brick;;3;Electricity;Central Warm-Air Furnace;10-14 Years old;7;Electricity;Large;ИСТИНА;7;30;1260;1260;23414
+1970;Brick;Composition Shingles;3;Natural Gas;Central Warm-Air Furnace;5-9 Years old;5;Natural Gas;Medium;ИСТИНА;5;41;1800;1800;10143
+1997;Stucco;Concrete Tiles;4;Natural Gas;Central Warm-Air Furnace;10-14 Years old;7;Natural Gas;Large;ИСТИНА;7;41;1719;1719;15219
+2000;Brick;;4;Electricity;Central Warm-Air Furnace;2-4 Years old;7;Natural Gas;Large;ИСТИНА;7;30;2831;2831;12634
+1980;Brick;;-2;Electricity;Central Warm-Air Furnace;>20 Years old;1;Natural Gas;Large;ИСТИНА;1;20;527;527;4818
+1984;Brick;Composition Shingles;4;Natural Gas;Central Warm-Air Furnace;>20 Years old;8;Natural Gas;Medium;ЛОЖЬ;-1;50;2144;0;8429
+1968;Stucco;Composition Shingles;3;Natural Gas;Central Warm-Air Furnace;>20 Years old;5;Natural Gas;Medium;ЛОЖЬ;-1;20;1131;0;2840
+1970;Brick;;2;Electricity;Central Warm-Air Furnace;2-4 Years old;4;Natural Gas;Large;ИСТИНА;4;30;834;834;4369
+1984;Siding;Metal;3;Electricity;Central Warm-Air Furnace;>20 Years old;4;Electricity;Medium;ИСТИНА;4;30;896;896;22070
+1985;Siding;Composition Shingles;3;Natural Gas;Central Warm-Air Furnace;>20 Years old;6;Natural Gas;Large;ИСТИНА;6;30;1420;1420;14517
+1999;Concrete;;-2;Natural Gas;Floor or Wall Pipeless Furnace;10-14 Years old;1;Fuel Oil;Large;ЛОЖЬ;-1;41;1188;0;1634
+1946;Wood;Composition Shingles;2;Electricity;Central Warm-Air Furnace;10-14 Years old;4;Natural Gas;Medium;ИСТИНА;4;30;677;677;1572
+1979;Brick;Composition Shingles;3;Electricity;Central Warm-Air Furnace;5-9 Years old;5;Electricity;Medium;ИСТИНА;5;41;1564;1564;12914
+1920;Brick;Asphalt;2;Natural Gas;Steam or Hot Water System;>20 Years old;7;Electricity;Large;ИСТИНА;-1;30;806;115;3685
+1971;Brick;Metal;4;-;Central Warm-Air Furnace;5-9 Years old;10;Electricity;Large;ИСТИНА;10;42;2403;2403;17752
+1999;Siding;Composition Shingles;3;Natural Gas;Central Warm-Air Furnace;10-14 Years old;5;Natural Gas;Medium;ИСТИНА;5;30;1372;1372;7151
+2005;Brick;Composition Shingles;4;-;Central Warm-Air Furnace;2-4 Years old;9;Natural Gas;Large;ИСТИНА;9;60;3191;3191;20079
+2000;Brick;Composition Shingles;4;Electricity;Central Warm-Air Furnace;5-9 Years old;5;Natural Gas;Small;ИСТИНА;7;41;1714;2400;14668
+1972;Wood;Asphalt;3;Electricity;Steam or Hot Water System;10-14 Years old;6;Fuel Oil;None;ИСТИНА;-1;41;1155;770;16129
+1955;Siding;Composition Shingles;2;Natural Gas;Central Warm-Air Furnace;2-4 Years old;6;Natural Gas;Medium;ЛОЖЬ;-1;41;2304;0;4468
+1976;Siding;Composition Shingles;3;Electricity;Heating Stove;2-4 Years old;4;Electricity;Medium;ИСТИНА;-1;30;1437;558;42687
+1970;Brick;Composition Shingles;3;Electricity;Steam or Hot Water System;<2 Years old;5;Electricity;Large;ИСТИНА;-1;30;1180;472;22657
+1960;Wood;Wood Shingles;2;Electricity;Built-In Electric Units;10-14 Years old;4;Electricity;Medium;ИСТИНА;4;30;1323;1323;14287
+1940;Concrete;;2;Electricity;Floor or Wall Pipeless Furnace;>20 Years old;4;Electricity;Large;ИСТИНА;-1;20;1209;907;8490
+1920;Concrete;Composition Shingles;3;Electricity;Central Warm-Air Furnace;<2 Years old;5;Natural Gas;Medium;ИСТИНА;-1;30;1518;304;3305
+1966;Stucco;Concrete Tiles;3;Natural Gas;Built-In Electric Units;2-4 Years old;5;Natural Gas;Large;ИСТИНА;5;41;1155;1155;8532
+1992;Concrete;Ceramic or Clay Tiles;3;Electricity;Central Warm-Air Furnace;2-4 Years old;6;Electricity;Medium;ИСТИНА;6;41;1640;1640;11649
+1970;Stucco;;1;Electricity;Portable Electric Heaters;2-4 Years old;2;Natural Gas;Large;ЛОЖЬ;-1;10;693;0;4381
+2005;Siding;;2;Electricity;Built-In Electric Units;5-9 Years old;3;Natural Gas;Large;ИСТИНА;-1;10;802;267;3070
+1992;Stucco;;2;Electricity;;5-9 Years old;-2;Natural Gas;Large;ИСТИНА;4;20;0;947;9398
+1960;Brick;Asphalt;4;Electricity;Central Warm-Air Furnace;>20 Years old;6;Natural Gas;Small;ИСТИНА;5;41;1200;1200;16186
+1985;Concrete;Ceramic or Clay Tiles;3;Electricity;Central Warm-Air Furnace;5-9 Years old;3;Electricity;Medium;ИСТИНА;3;41;907;907;6618
+1946;Brick;;-2;Natural Gas;Floor or Wall Pipeless Furnace;2-4 Years old;1;Fuel Oil;Large;ИСТИНА;-1;30;517;517;4230
+1963;Brick;Metal;3;Electricity;Central Warm-Air Furnace;5-9 Years old;5;Natural Gas;Medium;ИСТИНА;5;50;1842;1842;9728
+1930;Brick;;1;Natural Gas;Steam or Hot Water System;>20 Years old;3;Natural Gas;Large;ИСТИНА;-1;30;452;151;2058
+1960;Other;Composition Shingles;4;-;Central Warm-Air Furnace;>20 Years old;8;Natural Gas;Large;ИСТИНА;8;30;3080;3080;27067
+1920;Siding;Asphalt;3;Electricity;Central Warm-Air Furnace;15-19 Years old;5;Electricity;Medium;ИСТИНА;-1;42;1802;1081;11226
+1978;Siding;Wood Shingles;2;Propane/LPG;Central Warm-Air Furnace;<2 Years old;4;Electricity;Medium;ИСТИНА;-1;41;840;420;4475
+1920;Siding;Asphalt;1;Natural Gas;Steam or Hot Water System;>20 Years old;3;Natural Gas;Medium;ЛОЖЬ;-1;30;694;0;3223
+1995;Siding;Composition Shingles;3;Electricity;Central Warm-Air Furnace;15-19 Years old;6;Natural Gas;Small;ИСТИНА;6;30;2301;1576;6842
+1970;Brick;;1;Natural Gas;Steam or Hot Water System;5-9 Years old;1;Natural Gas;Large;ИСТИНА;-1;20;125;375;2729
+1920;Concrete;;1;Electricity;Central Warm-Air Furnace;10-14 Years old;3;Natural Gas;Small;ИСТИНА;3;20;680;680;3303
+1939;Wood;Composition Shingles;3;Natural Gas;Central Warm-Air Furnace;>20 Years old;5;Electricity;Medium;ЛОЖЬ;-1;41;938;0;7376
+1931;Brick;;-2;-;Steam or Hot Water System;5-9 Years old;1;Natural Gas;Large;ЛОЖЬ;-1;10;100;0;1525
+2005;Brick;Composition Shingles;2;Electricity;Central Warm-Air Furnace;2-4 Years old;2;Electricity;Medium;ИСТИНА;2;20;847;847;20840
+1970;Brick;Composition Shingles;2;Natural Gas;Central Warm-Air Furnace;<2 Years old;4;Electricity;Large;ИСТИНА;4;30;800;800;7508
+1950;Wood;Composition Shingles;2;Natural Gas;;Not Applicable;-2;Natural Gas;Medium;ИСТИНА;-1;50;0;773;4118
+1979;Siding;Composition Shingles;3;-;Heating Stove;10-14 Years old;5;Solar;Large;ЛОЖЬ;-1;60;2111;0;15542
+1959;Wood;Composition Shingles;4;-;Central Warm-Air Furnace;5-9 Years old;9;Natural Gas;Large;ИСТИНА;9;60;4592;4592;26876
+1994;Brick;Composition Shingles;4;Electricity;Central Warm-Air Furnace;15-19 Years old;6;Electricity;Medium;ИСТИНА;6;30;2312;2312;18628
+1920;Siding;Composition Shingles;3;Natural Gas;Central Warm-Air Furnace;5-9 Years old;7;Natural Gas;Medium;ИСТИНА;7;50;2174;2174;7954
+1967;Brick;;2;Natural Gas;Central Warm-Air Furnace;5-9 Years old;4;Natural Gas;Large;ИСТИНА;4;20;999;999;6727
+1958;Siding;Composition Shingles;2;Other Fuel;Central Warm-Air Furnace;>20 Years old;3;Other Fuel;Medium;ИСТИНА;3;30;588;588;2624
+1949;Brick;Asphalt;4;Natural Gas;Central Warm-Air Furnace;>20 Years old;7;Natural Gas;Small;ИСТИНА;7;41;1614;1614;7383
+1980;Brick;;1;Electricity;Steam or Hot Water System;>20 Years old;3;Not Applicable;None;ИСТИНА;-1;30;596;398;1815
+1972;Brick;Composition Shingles;3;Electricity;Heat Pump;5-9 Years old;7;Electricity;Large;ИСТИНА;7;41;1572;1572;13292
+1960;Brick;Composition Shingles;3;Electricity;Central Warm-Air Furnace;5-9 Years old;6;Natural Gas;Medium;ИСТИНА;6;30;2480;1328;5453
+1984;Siding;Asphalt;4;Electricity;Central Warm-Air Furnace;<2 Years old;10;Natural Gas;Medium;ИСТИНА;6;60;4430;2418;16240
+1920;Concrete;Asphalt;4;Natural Gas;Steam or Hot Water System;5-9 Years old;7;Natural Gas;Large;ИСТИНА;-1;41;1474;1263;6729
+1980;Siding;Metal;2;Electricity;Built-In Room Heater;5-9 Years old;3;Natural Gas;Medium;ИСТИНА;-1;41;540;180;10354
+1995;Stucco;Wood Shingles;3;-;Central Warm-Air Furnace;5-9 Years old;7;Natural Gas;Large;ИСТИНА;7;41;1292;1292;4847
+1986;Brick;Composition Shingles;3;-;Central Warm-Air Furnace;2-4 Years old;6;Electricity;Large;ИСТИНА;6;41;1862;1862;18563
+1970;Wood;Asphalt;3;Electricity;Central Warm-Air Furnace;<2 Years old;5;Electricity;Medium;ИСТИНА;5;42;1304;1563;22836
+2006;Brick;Composition Shingles;4;-;Central Warm-Air Furnace;2-4 Years old;8;Electricity;Medium;ИСТИНА;8;50;1590;1590;9660
+1980;Composition;Wood Shingles;3;Natural Gas;Central Warm-Air Furnace;>20 Years old;9;Natural Gas;Medium;ИСТИНА;9;50;2023;2023;4148
+2007;Siding;Composition Shingles;3;Electricity;Heat Pump;2-4 Years old;5;Electricity;Medium;ИСТИНА;5;30;1431;1431;12458
+1970;Stucco;Composition Shingles;2;Natural Gas;Floor or Wall Pipeless Furnace;>20 Years old;1;Natural Gas;Medium;ЛОЖЬ;-1;20;200;0;2771
+1963;Siding;Asphalt;3;Natural Gas;Central Warm-Air Furnace;<2 Years old;6;Natural Gas;Medium;ИСТИНА;5;41;2005;1070;6719
+1920;Wood;Asphalt;4;Electricity;Built-In Room Heater;2-4 Years old;2;Electricity;Medium;ЛОЖЬ;-1;50;720;0;8052
+1972;Concrete;;3;Electricity;Built-In Electric Units;>20 Years old;4;Electricity;Large;ИСТИНА;-1;30;768;192;8240
+1964;Siding;;2;Natural Gas;Steam or Hot Water System;>20 Years old;3;Natural Gas;Medium;ИСТИНА;-1;60;545;182;4069
+2006;Stucco;;-2;Electricity;Built-In Electric Units;2-4 Years old;1;Natural Gas;Large;ЛОЖЬ;-1;20;330;0;3164
+1923;Brick;;-2;Natural Gas;Steam or Hot Water System;2-4 Years old;1;Fuel Oil;Large;ИСТИНА;-1;10;313;313;1243
+1954;Siding;Composition Shingles;3;Natural Gas;Central Warm-Air Furnace;<2 Years old;5;Natural Gas;Medium;ИСТИНА;-1;41;2947;246;22494
+1990;Wood;Wood Shingles;4;Electricity;Central Warm-Air Furnace;15-19 Years old;5;Natural Gas;Medium;ИСТИНА;-1;30;1780;356;6851
+2001;Siding;Composition Shingles;3;Electricity;Central Warm-Air Furnace;5-9 Years old;7;Natural Gas;Medium;ЛОЖЬ;-1;41;2992;0;15929
+1970;Composition;Composition Shingles;4;Natural Gas;Steam or Hot Water System;10-14 Years old;8;Natural Gas;Medium;ИСТИНА;-1;30;3218;1207;10453
+1962;Brick;Asphalt;3;Natural Gas;Steam or Hot Water System;>20 Years old;5;Electricity;Large;ИСТИНА;-1;42;1088;435;5402
+1958;Wood;Asphalt;5;Electricity;Central Warm-Air Furnace;10-14 Years old;9;Electricity;Medium;ИСТИНА;8;30;2190;1947;12410
+1978;Brick;Composition Shingles;1;Electricity;Central Warm-Air Furnace;10-14 Years old;3;Electricity;Small;ИСТИНА;3;30;967;967;5852
+1920;Wood;Asphalt;2;Electricity;Central Warm-Air Furnace;15-19 Years old;5;Electricity;Medium;ИСТИНА;-1;41;1701;340;5785
+2000;Siding;Asphalt;3;Electricity;Central Warm-Air Furnace;5-9 Years old;5;Electricity;Medium;ИСТИНА;5;30;1232;1232;17144
+1950;Wood;Composition Shingles;3;Electricity;Central Warm-Air Furnace;2-4 Years old;4;Natural Gas;Medium;ЛОЖЬ;-1;50;791;0;6548
+1925;Siding;;4;Natural Gas;Steam or Hot Water System;>20 Years old;6;Electricity;Medium;ЛОЖЬ;-1;42;1286;0;5983
+1986;Stucco;Ceramic or Clay Tiles;2;Electricity;Built-In Electric Units;2-4 Years old;2;Natural Gas;Small;ИСТИНА;-1;20;408;204;7767
+1990;Siding;Composition Shingles;2;Electricity;Heat Pump;2-4 Years old;3;Electricity;Medium;ИСТИНА;3;41;940;940;13644
+1970;Siding;;2;Electricity;Built-In Electric Units;>20 Years old;4;Electricity;Large;ИСТИНА;-1;20;804;201;4693
+1920;Brick;;1;Electricity;Steam or Hot Water System;>20 Years old;3;Natural Gas;Large;ЛОЖЬ;-1;20;619;0;4010
+1980;Brick;;1;Electricity;Central Warm-Air Furnace;5-9 Years old;3;Natural Gas;Small;ИСТИНА;3;20;729;729;1781
+1960;Wood;Composition Shingles;4;Electricity;Portable Electric Heaters;>20 Years old;7;Electricity;Large;ЛОЖЬ;-1;30;2016;0;35091
+1954;Siding;Composition Shingles;3;Natural Gas;Portable Electric Heaters;<2 Years old;2;Natural Gas;Medium;ЛОЖЬ;-1;60;437;0;3149
+1978;Siding;Composition Shingles;5;-;Central Warm-Air Furnace;2-4 Years old;9;Electricity;Medium;ИСТИНА;9;50;3417;3417;18212
+1998;Siding;;1;Electricity;Central Warm-Air Furnace;10-14 Years old;3;Natural Gas;Small;ИСТИНА;3;20;1009;1009;4501
+1991;Concrete;Wood Shingles;3;Electricity;Central Warm-Air Furnace;2-4 Years old;5;Electricity;Small;ИСТИНА;5;20;1835;1835;10114
+1986;Stucco;;2;Electricity;Central Warm-Air Furnace;>20 Years old;5;Natural Gas;Small;ИСТИНА;5;20;827;827;8936
+1979;Wood;Composition Shingles;3;Electricity;Central Warm-Air Furnace;2-4 Years old;8;Electricity;Large;ЛОЖЬ;-1;41;2137;0;8604
+1980;Brick;Wood Shingles;4;Electricity;Central Warm-Air Furnace;>20 Years old;8;Electricity;Large;ИСТИНА;8;30;1697;1697;23981
+1954;Brick;Composition Shingles;4;Electricity;Central Warm-Air Furnace;>20 Years old;3;Natural Gas;Medium;ЛОЖЬ;-1;60;833;0;7038
+1980;Stone;Composition Shingles;3;Electricity;Heat Pump;5-9 Years old;7;Electricity;Medium;ИСТИНА;7;42;2858;2858;8537
+1968;Siding;Metal;3;Natural Gas;Central Warm-Air Furnace;15-19 Years old;7;Natural Gas;Medium;ЛОЖЬ;-1;41;648;0;3658
+1984;Siding;Metal;3;Electricity;Cooking Stove;2-4 Years old;5;Electricity;Small;ЛОЖЬ;-1;30;910;0;24166
+2005;Stone;Composition Shingles;3;-;Central Warm-Air Furnace;2-4 Years old;9;Electricity;Large;ЛОЖЬ;-1;60;3829;0;24698
+1930;Brick;Other;3;Natural Gas;Central Warm-Air Furnace;>20 Years old;7;Natural Gas;Large;ИСТИНА;-1;30;1597;228;5876
+1979;Stucco;;1;Electricity;;5-9 Years old;-2;Natural Gas;Large;ИСТИНА;4;10;0;890;11579
+2000;Siding;;1;Electricity;Central Warm-Air Furnace;10-14 Years old;3;Electricity;Small;ИСТИНА;3;10;544;544;4641
+2003;Concrete;Asphalt;5;Electricity;Central Warm-Air Furnace;5-9 Years old;4;Natural Gas;Medium;ИСТИНА;7;41;1771;1083;12658
+1972;Brick;Composition Shingles;3;-;Central Warm-Air Furnace;5-9 Years old;7;Electricity;Medium;ИСТИНА;7;41;1392;1392;11797
+1940;Siding;Composition Shingles;2;Natural Gas;Central Warm-Air Furnace;>20 Years old;5;Natural Gas;Small;ИСТИНА;5;30;1578;1578;10928
+1960;Brick;;3;Natural Gas;Central Warm-Air Furnace;2-4 Years old;6;Natural Gas;Large;ЛОЖЬ;-1;20;667;0;4150
+1982;Brick;Asphalt;4;-;Central Warm-Air Furnace;10-14 Years old;7;Natural Gas;Medium;ИСТИНА;7;41;1880;1880;28797
+1956;Siding;Composition Shingles;3;Natural Gas;Central Warm-Air Furnace;5-9 Years old;6;Natural Gas;Small;ИСТИНА;-1;41;1200;400;4647
+1970;Siding;Composition Shingles;2;Electricity;Central Warm-Air Furnace;10-14 Years old;4;Electricity;Large;ИСТИНА;4;30;840;840;28058
+1988;Stucco;;3;Natural Gas;Central Warm-Air Furnace;<2 Years old;2;Natural Gas;Medium;ИСТИНА;5;20;421;1053;5649
+2003;Siding;Composition Shingles;4;Electricity;Central Warm-Air Furnace;5-9 Years old;6;Natural Gas;Medium;ИСТИНА;6;41;3561;3561;13559
+1970;Brick;Composition Shingles;3;-;Central Warm-Air Furnace;>20 Years old;6;Natural Gas;Large;ИСТИНА;6;30;1344;1344;14598
+1953;Brick;Composition Shingles;3;Electricity;Central Warm-Air Furnace;10-14 Years old;6;Electricity;Medium;ИСТИНА;6;41;2992;2992;14943
+1952;Siding;Composition Shingles;3;Electricity;Central Warm-Air Furnace;15-19 Years old;7;Natural Gas;Medium;ИСТИНА;7;41;1374;1374;7089
+1956;Siding;Composition Shingles;3;Natural Gas;Steam or Hot Water System;15-19 Years old;6;Natural Gas;Small;ЛОЖЬ;-1;30;1115;0;3977
+2001;Brick;Composition Shingles;3;Electricity;Heat Pump;5-9 Years old;10;Natural Gas;Large;ИСТИНА;10;50;3200;3200;19055
+2005;Concrete;Asphalt;1;Natural Gas;Central Warm-Air Furnace;<2 Years old;3;Natural Gas;Medium;ИСТИНА;-1;20;414;138;1790
+1980;Siding;;3;Electricity;Central Warm-Air Furnace;2-4 Years old;6;Electricity;Medium;ИСТИНА;6;30;1362;1362;13374
+1920;Stucco;Composition Shingles;2;Natural Gas;Central Warm-Air Furnace;>20 Years old;5;Natural Gas;Small;ИСТИНА;-1;30;875;175;8501
+1965;Brick;;2;Natural Gas;Steam or Hot Water System;>20 Years old;5;Natural Gas;Large;ИСТИНА;5;10;912;912;9630
+1960;Brick;Composition Shingles;3;Natural Gas;Central Warm-Air Furnace;>20 Years old;2;Natural Gas;Small;ИСТИНА;5;50;480;1201;11481
+1970;Stone;;-2;Natural Gas;Central Warm-Air Furnace;2-4 Years old;1;Electricity;Large;ИСТИНА;1;30;638;638;7852
+1988;Brick;Asphalt;4;-;Central Warm-Air Furnace;>20 Years old;8;Electricity;Medium;ИСТИНА;9;42;1823;1696;5160
+2000;Brick;Composition Shingles;4;Electricity;Central Warm-Air Furnace;5-9 Years old;6;Electricity;Large;ЛОЖЬ;-1;41;2552;0;15459
+1971;Siding;Composition Shingles;4;Electricity;Central Warm-Air Furnace;>20 Years old;7;Electricity;Medium;ИСТИНА;7;50;2071;2071;10802
+1940;Wood;Composition Shingles;4;Natural Gas;Central Warm-Air Furnace;10-14 Years old;6;Natural Gas;Medium;ЛОЖЬ;-1;42;1869;0;3386
+1947;Brick;Concrete Tiles;4;Electricity;Central Warm-Air Furnace;>20 Years old;4;Electricity;Medium;ИСТИНА;8;42;1730;3459;18196
+1920;Siding;;3;Electricity;Floor or Wall Pipeless Furnace;5-9 Years old;5;Natural Gas;Medium;ИСТИНА;-1;42;1177;235;7770
+1945;Wood;Composition Shingles;4;Electricity;Central Warm-Air Furnace;10-14 Years old;9;Electricity;Medium;ЛОЖЬ;-1;60;1674;0;15351
+2004;Wood;Composition Shingles;3;Electricity;Central Warm-Air Furnace;5-9 Years old;7;Natural Gas;Medium;ИСТИНА;7;30;1545;1545;13161
+1952;Siding;Composition Shingles;1;Natural Gas;Central Warm-Air Furnace;10-14 Years old;4;Natural Gas;Large;ИСТИНА;-1;41;899;450;3260
+1982;Brick;Wood Shingles;4;Electricity;Central Warm-Air Furnace;2-4 Years old;7;Electricity;Medium;ИСТИНА;7;30;1900;1900;29395
+1968;Brick;;-2;Natural Gas;Steam or Hot Water System;10-14 Years old;1;Natural Gas;Large;ЛОЖЬ;-1;10;313;0;3437
+1955;Stone;Wood Shingles;4;Electricity;Heating Stove;>20 Years old;6;Electricity;Large;ЛОЖЬ;-1;41;2438;0;31247
+1940;Wood;Composition Shingles;3;Natural Gas;Central Warm-Air Furnace;>20 Years old;2;Natural Gas;Large;ИСТИНА;-1;41;437;437;11247
+2000;Brick;Asphalt;2;Electricity;Central Warm-Air Furnace;5-9 Years old;5;Electricity;Medium;ИСТИНА;5;20;1183;1183;16164
+1950;Brick;Composition Shingles;2;Electricity;Central Warm-Air Furnace;5-9 Years old;4;Natural Gas;Small;ИСТИНА;4;42;1499;1499;7060
+1994;Wood;Asphalt;4;Natural Gas;Central Warm-Air Furnace;5-9 Years old;8;Natural Gas;Large;ЛОЖЬ;-1;41;2592;0;10156
+1970;Concrete;Asphalt;2;Electricity;Steam or Hot Water System;5-9 Years old;4;Natural Gas;Small;ИСТИНА;-1;20;912;228;5780
+1950;Wood;Wood Shingles;3;Electricity;Central Warm-Air Furnace;<2 Years old;6;Natural Gas;Medium;ЛОЖЬ;-1;50;1850;0;10805
+1960;Brick;Composition Shingles;4;Electricity;Steam or Hot Water System;>20 Years old;7;Wood;Small;ИСТИНА;7;41;1573;1573;10013
+1958;Siding;Composition Shingles;3;Propane/LPG;Built-In Room Heater;10-14 Years old;6;Electricity;Small;ИСТИНА;-1;41;1699;566;11162
+1950;Siding;Composition Shingles;3;Electricity;Central Warm-Air Furnace;5-9 Years old;6;Electricity;Medium;ЛОЖЬ;-1;50;4500;0;12528
+1960;Siding;Asphalt;4;-;Central Warm-Air Furnace;2-4 Years old;4;Natural Gas;Small;ИСТИНА;4;41;989;989;4750
+1960;Wood;Composition Shingles;3;Electricity;Central Warm-Air Furnace;10-14 Years old;7;Natural Gas;Large;ЛОЖЬ;-1;41;1632;0;5203
+1953;Stucco;Composition Shingles;2;Natural Gas;Central Warm-Air Furnace;5-9 Years old;6;Natural Gas;Medium;ИСТИНА;6;42;1966;1966;18944
+1983;Brick;Composition Shingles;3;Electricity;Central Warm-Air Furnace;5-9 Years old;6;Electricity;Small;ИСТИНА;6;20;2408;2408;30143
+1951;Stucco;;-2;Electricity;Portable Electric Heaters;2-4 Years old;1;Electricity;Large;ИСТИНА;-1;20;735;735;1719
+1960;Wood;Composition Shingles;4;Electricity;Steam or Hot Water System;>20 Years old;8;Natural Gas;Medium;ЛОЖЬ;-1;50;3900;0;2163
+1965;Brick;;-2;Electricity;Central Warm-Air Furnace;10-14 Years old;1;Electricity;Medium;ИСТИНА;1;10;400;400;9381
+1974;Wood;Composition Shingles;4;Electricity;Central Warm-Air Furnace;5-9 Years old;7;Natural Gas;Large;ИСТИНА;7;30;2042;2042;13127
+1990;Siding;Composition Shingles;3;Electricity;Heat Pump;<2 Years old;6;Electricity;Small;ИСТИНА;6;41;1688;1688;20510
+2008;Stucco;Composition Shingles;3;Natural Gas;Central Warm-Air Furnace;<2 Years old;5;Natural Gas;None;ИСТИНА;5;41;935;935;6994
+1955;Brick;Composition Shingles;3;Electricity;Central Warm-Air Furnace;>20 Years old;5;Natural Gas;Medium;ИСТИНА;5;30;1310;1310;5433
+1920;Brick;;-2;Electricity;Steam or Hot Water System;15-19 Years old;1;Natural Gas;Large;ИСТИНА;1;30;344;344;4601
+1920;Wood;Composition Shingles;3;Electricity;Steam or Hot Water System;10-14 Years old;7;Fuel Oil;Small;ИСТИНА;-1;41;1817;1091;8572
+1954;Siding;Composition Shingles;3;Natural Gas;Central Warm-Air Furnace;10-14 Years old;5;Natural Gas;Large;ИСТИНА;5;41;1176;1176;11196
+1920;Brick;Composition Shingles;2;Natural Gas;Central Warm-Air Furnace;>20 Years old;5;Natural Gas;Large;ЛОЖЬ;-1;30;844;0;1959
+2006;Brick;Composition Shingles;5;-;Heat Pump;2-4 Years old;10;Natural Gas;Medium;ИСТИНА;10;50;6550;6550;11100
+1988;Wood;Composition Shingles;4;Electricity;Central Warm-Air Furnace;2-4 Years old;8;Natural Gas;Medium;ИСТИНА;8;41;3502;3502;8075
+1950;Siding;Composition Shingles;2;Electricity;Central Warm-Air Furnace;2-4 Years old;5;Electricity;None;ИСТИНА;5;30;834;834;21857
+1997;Siding;;1;Electricity;Central Warm-Air Furnace;10-14 Years old;3;Natural Gas;Medium;ИСТИНА;3;20;960;960;3319
+2006;Wood;;2;Electricity;Central Warm-Air Furnace;2-4 Years old;4;Electricity;Medium;ИСТИНА;4;20;1167;1167;6398
+1965;Siding;Wood Shingles;3;Electricity;Heating Stove;10-14 Years old;8;Solar;Large;ЛОЖЬ;-1;41;2880;0;7345
+2002;Stucco;Concrete Tiles;3;Electricity;Heating Stove;5-9 Years old;4;Natural Gas;Large;ИСТИНА;7;41;982;1718;13648
+1986;Stucco;Asphalt;3;Electricity;Heat Pump;2-4 Years old;8;Electricity;Medium;ИСТИНА;8;41;2732;3132;11963
+1990;Siding;Asphalt;5;Electricity;Central Warm-Air Furnace;15-19 Years old;10;Natural Gas;Medium;ЛОЖЬ;-1;41;3074;0;6253
+1988;Brick;;1;Electricity;Central Warm-Air Furnace;>20 Years old;3;Fuel Oil;None;ИСТИНА;3;20;596;596;2818
+1991;Siding;Asphalt;4;Natural Gas;Central Warm-Air Furnace;15-19 Years old;9;Natural Gas;Large;ИСТИНА;9;50;2263;2263;20742
+1979;Brick;Composition Shingles;3;Natural Gas;Floor or Wall Pipeless Furnace;5-9 Years old;7;Natural Gas;Large;ИСТИНА;-1;41;1680;720;3255
+1969;Siding;Asphalt;4;Electricity;Steam or Hot Water System;2-4 Years old;3;Electricity;Large;ЛОЖЬ;-1;42;526;0;17506
+1996;Siding;Composition Shingles;5;Electricity;Central Warm-Air Furnace;10-14 Years old;10;Natural Gas;Medium;ИСТИНА;10;50;2830;2120;17821
+1986;Wood;Composition Shingles;3;Electricity;Central Warm-Air Furnace;>20 Years old;5;Natural Gas;Medium;ЛОЖЬ;-1;20;1316;0;5606
+1949;Siding;Asphalt;4;Electricity;Central Warm-Air Furnace;15-19 Years old;6;Natural Gas;Medium;ИСТИНА;-1;41;1690;1127;11823
+1970;Concrete;Concrete Tiles;3;Electricity;Central Warm-Air Furnace;<2 Years old;6;Electricity;None;ИСТИНА;6;41;1500;1500;14770
+1975;Wood;;2;-;Built-In Room Heater;>20 Years old;3;Natural Gas;Medium;ЛОЖЬ;-1;20;605;0;1977
+1960;Siding;Composition Shingles;2;Electricity;Built-In Electric Units;2-4 Years old;6;Electricity;Medium;ИСТИНА;-1;42;900;450;13008
+1986;Stucco;;1;Electricity;Central Warm-Air Furnace;10-14 Years old;3;Electricity;Medium;ИСТИНА;3;10;642;642;6742
+2002;Siding;Asphalt;3;Electricity;Central Warm-Air Furnace;5-9 Years old;6;Natural Gas;Large;ИСТИНА;7;41;3155;1433;15502
+1978;Wood;Asphalt;3;-;Central Warm-Air Furnace;5-9 Years old;6;Natural Gas;None;ИСТИНА;6;41;2512;2512;13974
+1992;Stucco;Ceramic or Clay Tiles;4;Natural Gas;Central Warm-Air Furnace;15-19 Years old;7;Natural Gas;Medium;ЛОЖЬ;-1;50;2620;0;4787
+1950;Brick;Wood Shingles;3;Electricity;Built-In Electric Units;>20 Years old;3;Electricity;Medium;ЛОЖЬ;-1;30;690;0;18577
+2007;Brick;Composition Shingles;5;Electricity;Central Warm-Air Furnace;2-4 Years old;8;Electricity;Large;ИСТИНА;8;50;2560;2560;27406
+1965;Wood;Composition Shingles;3;Electricity;Central Warm-Air Furnace;5-9 Years old;6;Natural Gas;Medium;ИСТИНА;6;41;2320;2320;10317
+1990;Wood;;1;Electricity;Portable Electric Heaters;<2 Years old;2;Propane/LPG;Large;ЛОЖЬ;-1;30;439;0;4950
+1985;Siding;Metal;2;Electricity;Built-In Electric Units;>20 Years old;4;Electricity;Medium;ИСТИНА;5;41;784;980;14137
+1979;Brick;Composition Shingles;5;Natural Gas;Central Warm-Air Furnace;2-4 Years old;10;Natural Gas;Large;ИСТИНА;6;42;1370;599;12734
+1974;Stucco;Composition Shingles;3;Natural Gas;Floor or Wall Pipeless Furnace;>20 Years old;6;Natural Gas;Large;ИСТИНА;-1;20;1310;218;11426
+1970;Siding;Composition Shingles;2;Electricity;Other Equipment;>20 Years old;4;Electricity;Medium;ЛОЖЬ;-1;20;900;0;10611
+1968;Siding;Composition Shingles;3;Natural Gas;Central Warm-Air Furnace;5-9 Years old;6;Natural Gas;Large;ИСТИНА;7;42;1666;1944;18038
+1987;Stucco;Concrete Tiles;5;-;Central Warm-Air Furnace;5-9 Years old;9;Natural Gas;Large;ИСТИНА;9;50;3951;3951;9199
+1940;Brick;Asphalt;2;-;Steam or Hot Water System;>20 Years old;5;Fuel Oil;Large;ЛОЖЬ;-1;30;1029;0;4045
+1959;Siding;Asphalt;3;Electricity;Central Warm-Air Furnace;>20 Years old;5;Natural Gas;Medium;ИСТИНА;5;41;1920;1920;2501
+1998;Wood;Composition Shingles;2;Electricity;Central Warm-Air Furnace;10-14 Years old;4;Electricity;Small;ИСТИНА;4;30;1606;1606;12694
+1988;Brick;Composition Shingles;3;Electricity;Heat Pump;>20 Years old;6;Electricity;Large;ИСТИНА;6;30;1820;1820;23075
+1949;Siding;Asphalt;4;Electricity;Floor or Wall Pipeless Furnace;>20 Years old;8;Fuel Oil;Medium;ИСТИНА;-1;42;3104;1940;13744
+1980;Siding;Asphalt;3;Propane/LPG;Central Warm-Air Furnace;>20 Years old;5;Electricity;Medium;ИСТИНА;5;41;1235;1235;21156
+2004;Siding;Composition Shingles;2;Electricity;Central Warm-Air Furnace;5-9 Years old;6;Electricity;Small;ИСТИНА;6;41;1680;1680;12322
+1990;Stucco;Ceramic or Clay Tiles;3;Electricity;Central Warm-Air Furnace;<2 Years old;8;Electricity;Large;ИСТИНА;8;50;3126;3126;28063
+1950;Siding;Composition Shingles;3;Electricity;Central Warm-Air Furnace;10-14 Years old;6;Natural Gas;Medium;ИСТИНА;6;41;1104;1104;10333
+1980;Composition;Composition Shingles;4;Electricity;Central Warm-Air Furnace;2-4 Years old;10;Natural Gas;Large;ИСТИНА;9;42;3012;2072;15635
+1980;Brick;Wood Shingles;4;Electricity;Central Warm-Air Furnace;>20 Years old;7;Electricity;Medium;ИСТИНА;7;30;3179;1802;13820
+1980;Stucco;Asphalt;3;Electricity;Central Warm-Air Furnace;>20 Years old;5;Electricity;Large;ИСТИНА;5;30;2234;2234;10081
+1984;Siding;Metal;2;Electricity;Central Warm-Air Furnace;>20 Years old;4;Electricity;Medium;ИСТИНА;-1;30;966;483;10134
+1974;Brick;;2;Natural Gas;Central Warm-Air Furnace;2-4 Years old;4;Natural Gas;Large;ИСТИНА;-1;41;983;492;3970
+1978;Siding;;1;Electricity;Built-In Electric Units;2-4 Years old;2;Electricity;Small;ЛОЖЬ;-1;20;538;0;6867
+2001;Brick;Asphalt;3;Natural Gas;Central Warm-Air Furnace;10-14 Years old;8;Natural Gas;Medium;ИСТИНА;8;42;2336;2336;7549
+1959;Siding;Asphalt;3;Natural Gas;Central Warm-Air Furnace;15-19 Years old;6;Natural Gas;Large;ИСТИНА;6;41;1976;1976;5614
+1952;Siding;Composition Shingles;2;Natural Gas;Central Warm-Air Furnace;10-14 Years old;7;Natural Gas;Large;ИСТИНА;6;20;1976;1838;14664
+1920;Siding;Composition Shingles;2;Natural Gas;Central Warm-Air Furnace;10-14 Years old;5;Natural Gas;Small;ИСТИНА;5;30;1896;1896;9899
+1925;Brick;Asphalt;3;Natural Gas;Central Warm-Air Furnace;>20 Years old;6;Natural Gas;Medium;ИСТИНА;6;30;1139;1139;11437
+1946;Siding;Composition Shingles;4;Natural Gas;Steam or Hot Water System;10-14 Years old;10;Fuel Oil;Medium;ЛОЖЬ;-1;42;3352;0;2133
+1950;Stucco;Composition Shingles;2;Natural Gas;Portable Electric Heaters;2-4 Years old;3;Natural Gas;Large;ИСТИНА;-1;30;608;203;2223
+1979;Brick;Composition Shingles;3;-;Central Warm-Air Furnace;>20 Years old;6;Electricity;Medium;ИСТИНА;4;30;4998;3332;14225
+1980;Stucco;;1;Natural Gas;Floor or Wall Pipeless Furnace;>20 Years old;1;Natural Gas;Large;ИСТИНА;-1;41;172;172;2831
+1920;Wood;Metal;4;Propane/LPG;Other Equipment;10-14 Years old;4;Propane/LPG;Medium;ЛОЖЬ;-1;30;1013;0;5635
+1951;Brick;Composition Shingles;3;Electricity;Central Warm-Air Furnace;10-14 Years old;4;Natural Gas;Small;ИСТИНА;4;30;689;689;7452
+1998;Siding;Metal;2;Electricity;Central Warm-Air Furnace;10-14 Years old;3;Natural Gas;Medium;ИСТИНА;3;20;1080;1080;9083
+1972;Brick;;1;Electricity;Steam or Hot Water System;5-9 Years old;3;Natural Gas;Large;ИСТИНА;-1;20;358;119;2579
+1972;Siding;Composition Shingles;5;Electricity;Central Warm-Air Furnace;10-14 Years old;9;Natural Gas;Medium;ИСТИНА;9;41;2292;2292;31634
+1985;Stucco;;2;Natural Gas;Central Warm-Air Furnace;5-9 Years old;4;Natural Gas;Medium;ИСТИНА;4;20;932;932;4225
+1950;Siding;Composition Shingles;3;Electricity;Central Warm-Air Furnace;5-9 Years old;6;Natural Gas;Medium;ЛОЖЬ;-1;41;1808;0;10400
+1973;Concrete;;1;Electricity;Built-In Electric Units;>20 Years old;3;Natural Gas;Medium;ИСТИНА;-1;10;700;467;5049
+1993;Stucco;Wood Shingles;2;Electricity;Central Warm-Air Furnace;10-14 Years old;4;Electricity;Medium;ИСТИНА;4;30;1200;1200;18471
+2007;Stucco;Other;3;Other Fuel;Central Warm-Air Furnace;2-4 Years old;4;Natural Gas;Medium;ЛОЖЬ;-1;41;1461;0;4261
+1950;Brick;;2;Natural Gas;Built-In Electric Units;>20 Years old;4;Fuel Oil;Medium;ИСТИНА;-1;30;956;239;5820
+1940;Brick;;2;Natural Gas;Steam or Hot Water System;2-4 Years old;5;Natural Gas;Large;ИСТИНА;-1;30;894;536;6381
+1976;Brick;;1;Electricity;Central Warm-Air Furnace;15-19 Years old;4;Electricity;Small;ИСТИНА;4;20;672;672;8274
+1991;Brick;Composition Shingles;4;Natural Gas;Central Warm-Air Furnace;10-14 Years old;6;Natural Gas;Medium;ИСТИНА;6;41;1946;1946;7683
+1995;Siding;Asphalt;4;Natural Gas;Central Warm-Air Furnace;10-14 Years old;8;Natural Gas;Large;ИСТИНА;8;42;3220;3220;12067
+1978;Siding;Metal;2;Electricity;Built-In Room Heater;<2 Years old;4;Electricity;Small;ИСТИНА;4;30;720;720;13733
+1990;Wood;Composition Shingles;3;Electricity;Central Warm-Air Furnace;15-19 Years old;6;Electricity;Medium;ИСТИНА;6;30;1867;1867;14273
+1998;Stucco;;2;Electricity;Central Warm-Air Furnace;<2 Years old;5;Electricity;Medium;ИСТИНА;5;30;1318;1318;4971
+1978;Stucco;Ceramic or Clay Tiles;2;Electricity;Central Warm-Air Furnace;>20 Years old;5;Natural Gas;Large;ЛОЖЬ;-1;30;1321;0;3496
+2003;Siding;Composition Shingles;3;-;Steam or Hot Water System;5-9 Years old;7;Fuel Oil;None;ИСТИНА;-1;42;2496;1298;10021
+1990;Stucco;Composition Shingles;4;Natural Gas;Central Warm-Air Furnace;>20 Years old;7;Natural Gas;Small;ИСТИНА;7;30;1630;1630;24859
+1970;Siding;Other;3;Natural Gas;Central Warm-Air Furnace;>20 Years old;5;Natural Gas;Small;ИСТИНА;-1;41;840;168;7857
+1946;Wood;Composition Shingles;2;Natural Gas;Built-In Room Heater;>20 Years old;3;Natural Gas;Small;ЛОЖЬ;-1;41;797;0;1877
+1970;Brick;Composition Shingles;1;Natural Gas;Built-In Electric Units;>20 Years old;2;Electricity;Medium;ИСТИНА;-1;10;830;415;7689
+1920;Siding;Composition Shingles;3;Electricity;Central Warm-Air Furnace;5-9 Years old;12;Natural Gas;Medium;ИСТИНА;12;60;2958;2934;16157
+1968;Siding;Composition Shingles;3;Electricity;Central Warm-Air Furnace;2-4 Years old;5;Electricity;Large;ИСТИНА;-1;41;1640;984;19050
+1929;Stucco;Asphalt;2;Electricity;Fireplace;>20 Years old;5;Electricity;None;ИСТИНА;5;41;1050;1050;16357
+1928;Stucco;Composition Shingles;2;Natural Gas;;Not Applicable;-2;Natural Gas;Small;ЛОЖЬ;-1;41;0;0;5083
+1920;Wood;Composition Shingles;3;Electricity;Steam or Hot Water System;>20 Years old;7;Fuel Oil;Large;ИСТИНА;-1;42;1616;228;4431
+2004;Brick;Composition Shingles;4;Natural Gas;Central Warm-Air Furnace;5-9 Years old;9;Natural Gas;Medium;ИСТИНА;9;42;1804;1804;16183
+1920;Siding;Composition Shingles;3;Electricity;Central Warm-Air Furnace;5-9 Years old;5;Propane/LPG;Medium;ИСТИНА;3;41;1727;1036;16449
+1975;Wood;Metal;3;Electricity;Portable Electric Heaters;<2 Years old;3;Electricity;Large;ИСТИНА;-1;20;1286;857;15173
+1994;Brick;Composition Shingles;3;Electricity;Central Warm-Air Furnace;10-14 Years old;5;Electricity;Medium;ИСТИНА;5;30;1125;1125;13835
+1979;Stucco;Asphalt;3;Electricity;Central Warm-Air Furnace;5-9 Years old;6;Electricity;None;ИСТИНА;5;30;1556;1556;3518
+1956;Siding;Composition Shingles;4;Natural Gas;Central Warm-Air Furnace;<2 Years old;7;Natural Gas;Small;ИСТИНА;-1;41;2500;857;6278
+1986;Stucco;Composition Shingles;3;-;Central Warm-Air Furnace;2-4 Years old;7;Natural Gas;Medium;ИСТИНА;7;30;2372;2372;5531
+1950;Wood;Asphalt;2;Electricity;Built-In Electric Units;>20 Years old;5;Electricity;Medium;ЛОЖЬ;-1;30;750;0;22442
+1920;Siding;Composition Shingles;3;Electricity;Central Warm-Air Furnace;<2 Years old;7;Electricity;Medium;ИСТИНА;7;42;2160;2160;11166
+1959;Siding;Asphalt;3;Electricity;Steam or Hot Water System;2-4 Years old;7;Fuel Oil;None;ИСТИНА;7;41;1411;1411;4904
+1950;Stucco;Composition Shingles;1;Natural Gas;Built-In Room Heater;<2 Years old;3;Natural Gas;Small;ЛОЖЬ;-1;30;803;0;1943
+1952;Stucco;Composition Shingles;4;Natural Gas;;>20 Years old;-2;Natural Gas;Medium;ЛОЖЬ;-1;50;0;0;13981
+1966;Brick;Asphalt;3;-;Built-In Electric Units;>20 Years old;5;Natural Gas;Large;ИСТИНА;-1;41;2106;421;5582
+1995;Siding;Metal;2;Electricity;Built-In Room Heater;10-14 Years old;4;Electricity;Small;ИСТИНА;4;30;980;980;7644
+1920;Siding;Wood Shingles;3;Electricity;Central Warm-Air Furnace;>20 Years old;5;Natural Gas;Medium;ИСТИНА;-1;30;1822;364;13300
+1970;Wood;Wood Shingles;2;Natural Gas;;>20 Years old;-2;Natural Gas;Large;ЛОЖЬ;-1;20;0;0;3518
+1994;Siding;Composition Shingles;3;Electricity;Central Warm-Air Furnace;15-19 Years old;6;Natural Gas;Medium;ИСТИНА;6;50;2680;2680;13975
+1973;Brick;Asphalt;3;Electricity;Heating Stove;2-4 Years old;5;Natural Gas;Medium;ИСТИНА;5;41;764;764;7189
+1954;Wood;Composition Shingles;2;Electricity;Cooking Stove;2-4 Years old;4;Natural Gas;Small;ИСТИНА;-1;41;800;400;7512
+1930;Stucco;Composition Shingles;4;Natural Gas;Central Warm-Air Furnace;2-4 Years old;7;Natural Gas;Medium;ИСТИНА;-1;50;1491;852;6774
+1957;Stucco;Composition Shingles;3;Natural Gas;Floor or Wall Pipeless Furnace;5-9 Years old;6;Natural Gas;Medium;ИСТИНА;-1;30;1307;436;7204
+1980;Brick;Wood Shingles;2;Electricity;Heat Pump;<2 Years old;4;Electricity;Medium;ИСТИНА;4;30;1001;1001;7476
+2005;Stucco;Concrete Tiles;3;-;Heat Pump;5-9 Years old;8;Natural Gas;Large;ИСТИНА;8;60;4766;4766;34466
+1952;Brick;Composition Shingles;3;Natural Gas;Central Warm-Air Furnace;10-14 Years old;6;Natural Gas;Medium;ИСТИНА;6;30;1073;1073;6260
+1989;Wood;Composition Shingles;3;-;Central Warm-Air Furnace;>20 Years old;5;Natural Gas;Medium;ИСТИНА;5;50;2605;2605;8894
+1995;Siding;Asphalt;3;Electricity;Central Warm-Air Furnace;10-14 Years old;7;Electricity;Medium;ИСТИНА;4;41;1617;924;14973
+1979;Siding;Composition Shingles;3;Electricity;Central Warm-Air Furnace;5-9 Years old;7;Natural Gas;Medium;ИСТИНА;7;41;1136;1136;15158
+1987;Brick;Composition Shingles;4;-;Central Warm-Air Furnace;10-14 Years old;8;Natural Gas;Large;ИСТИНА;8;50;3161;3161;16420
+1996;Wood;Composition Shingles;3;Electricity;Central Warm-Air Furnace;10-14 Years old;6;Electricity;Small;ЛОЖЬ;-1;30;1248;0;14481
+1990;Siding;Metal;3;Propane/LPG;Heating Stove;5-9 Years old;5;Electricity;Large;ИСТИНА;-1;41;980;196;701
+1971;Wood;Asphalt;2;Electricity;Portable Electric Heaters;2-4 Years old;3;Electricity;Medium;ИСТИНА;5;41;596;994;13258
+1979;Wood;Composition Shingles;3;Natural Gas;Central Warm-Air Furnace;>20 Years old;6;Natural Gas;Large;ИСТИНА;6;41;1616;1280;9905
+1975;Brick;Composition Shingles;3;Natural Gas;Central Warm-Air Furnace;5-9 Years old;6;Natural Gas;Medium;ИСТИНА;6;30;1466;1466;8622
+1996;Brick;Ceramic or Clay Tiles;2;Electricity;Central Warm-Air Furnace;<2 Years old;6;Electricity;Medium;ИСТИНА;6;20;2940;2940;16065
+1956;Stucco;Composition Shingles;3;Natural Gas;Central Warm-Air Furnace;5-9 Years old;5;Natural Gas;Large;ЛОЖЬ;-1;41;738;0;7517
+1956;Siding;Composition Shingles;3;Electricity;Central Warm-Air Furnace;>20 Years old;5;Natural Gas;Medium;ИСТИНА;-1;41;1305;522;7029
+1960;Stucco;Composition Shingles;3;Natural Gas;Central Warm-Air Furnace;<2 Years old;5;Natural Gas;Medium;ИСТИНА;5;41;1808;1808;9427
+1993;Siding;Composition Shingles;3;Propane/LPG;Heat Pump;10-14 Years old;6;Electricity;Small;ИСТИНА;6;41;1863;1863;26081
+1986;Brick;;3;Electricity;Central Warm-Air Furnace;5-9 Years old;6;Natural Gas;Large;ИСТИНА;6;20;1639;1639;13470
+1990;Concrete;;2;Electricity;Central Warm-Air Furnace;2-4 Years old;4;Natural Gas;Small;ИСТИНА;4;30;1026;1026;4067
+1971;Stucco;Wood Shingles;5;Electricity;Central Warm-Air Furnace;>20 Years old;8;Natural Gas;Large;ИСТИНА;8;42;3150;3150;19593
+2009;Siding;Composition Shingles;3;Electricity;Central Warm-Air Furnace;<2 Years old;6;Electricity;Medium;ИСТИНА;6;30;1280;1280;20071
+1995;Siding;Composition Shingles;3;Natural Gas;Central Warm-Air Furnace;10-14 Years old;5;Natural Gas;Medium;ИСТИНА;5;41;1216;1216;9814
+1920;Stucco;Composition Shingles;1;Natural Gas;Central Warm-Air Furnace;5-9 Years old;2;Natural Gas;Medium;ИСТИНА;2;30;409;409;17629
+1980;Siding;;2;Electricity;Central Warm-Air Furnace;>20 Years old;4;Electricity;Small;ИСТИНА;4;20;1096;1096;14505
+1920;Brick;Asphalt;2;Natural Gas;Steam or Hot Water System;<2 Years old;5;Natural Gas;Medium;ИСТИНА;-1;30;1015;406;6777
+2000;Brick;;1;Natural Gas;Steam or Hot Water System;10-14 Years old;2;Natural Gas;Large;ЛОЖЬ;-1;41;478;0;1887
+1983;Wood;Composition Shingles;2;Electricity;Central Warm-Air Furnace;2-4 Years old;4;Electricity;Medium;ИСТИНА;4;41;1984;1984;15571
+1958;Brick;Wood Shingles;3;Electricity;Central Warm-Air Furnace;10-14 Years old;7;Electricity;Medium;ИСТИНА;7;50;2006;2006;22567
+1998;Siding;;2;Electricity;Central Warm-Air Furnace;10-14 Years old;3;Electricity;Small;ИСТИНА;3;20;766;766;6161
+1987;Siding;Asphalt;3;Electricity;Built-In Electric Units;>20 Years old;7;Electricity;Large;ИСТИНА;5;30;1884;586;25811
+2001;Siding;Asphalt;5;Electricity;Heat Pump;5-9 Years old;7;Electricity;Medium;ИСТИНА;7;42;2636;2636;19344
+1950;Stucco;Composition Shingles;3;Natural Gas;Floor or Wall Pipeless Furnace;>20 Years old;5;Natural Gas;Medium;ИСТИНА;-1;41;1508;302;3237
+1960;Concrete;Composition Shingles;2;-;Heat Pump;10-14 Years old;6;Electricity;Medium;ИСТИНА;6;42;1220;1220;9621
+1945;Siding;Composition Shingles;2;Natural Gas;Central Warm-Air Furnace;>20 Years old;4;Natural Gas;Medium;ЛОЖЬ;-1;30;1071;0;3028
+1950;Stucco;Composition Shingles;2;Natural Gas;Floor or Wall Pipeless Furnace;>20 Years old;4;Natural Gas;Large;ЛОЖЬ;-1;30;666;0;1844
+2005;Brick;Composition Shingles;2;Electricity;Heat Pump;5-9 Years old;3;Electricity;Medium;ИСТИНА;3;20;1055;1055;10965
+1993;Brick;Composition Shingles;2;Natural Gas;Central Warm-Air Furnace;>20 Years old;5;Natural Gas;Medium;ИСТИНА;5;30;1259;1259;5751
+1920;Stucco;Slate;4;Natural Gas;Steam or Hot Water System;10-14 Years old;8;Natural Gas;Medium;ИСТИНА;9;60;2985;3358;13549
+1964;Wood;Composition Shingles;3;-;Central Warm-Air Furnace;5-9 Years old;6;Natural Gas;Medium;ЛОЖЬ;-1;30;1208;0;6075
+1967;Siding;Composition Shingles;3;Electricity;Heat Pump;<2 Years old;6;Natural Gas;Medium;ИСТИНА;6;30;1332;1332;11538
+1920;Siding;Composition Shingles;3;Electricity;Steam or Hot Water System;10-14 Years old;5;Electricity;Large;ИСТИНА;-1;30;619;248;15459
+1966;Wood;Asphalt;3;Electricity;Steam or Hot Water System;>20 Years old;6;Not Applicable;None;ЛОЖЬ;-1;30;1040;0;4117
+2005;Siding;Composition Shingles;2;Electricity;Central Warm-Air Furnace;5-9 Years old;4;Electricity;Medium;ЛОЖЬ;-1;30;1800;0;10508
+2005;Stucco;;1;Natural Gas;Central Warm-Air Furnace;5-9 Years old;4;Natural Gas;Medium;ИСТИНА;4;10;667;667;2631
+1990;Stucco;Ceramic or Clay Tiles;4;Electricity;Central Warm-Air Furnace;<2 Years old;9;Electricity;Large;ИСТИНА;9;42;4640;4640;26688
+1950;Brick;Composition Shingles;4;Natural Gas;Central Warm-Air Furnace;>20 Years old;6;Natural Gas;Large;ЛОЖЬ;-1;41;1350;0;8044
+1964;Wood;Asphalt;3;-;Central Warm-Air Furnace;15-19 Years old;5;Natural Gas;Medium;ИСТИНА;5;41;2820;2820;11271
+1958;Siding;Asphalt;3;Natural Gas;Central Warm-Air Furnace;2-4 Years old;6;Natural Gas;Medium;ИСТИНА;6;41;1896;1896;7003
+1965;Stucco;Composition Shingles;3;Electricity;Built-In Electric Units;10-14 Years old;5;Electricity;Medium;ИСТИНА;5;30;2491;2491;22121
+2006;Siding;;3;Electricity;Central Warm-Air Furnace;2-4 Years old;4;Electricity;Small;ИСТИНА;4;20;1160;1160;12862
+1996;Wood;Metal;3;Electricity;Central Warm-Air Furnace;10-14 Years old;5;Electricity;None;ИСТИНА;5;41;1437;1437;24563
+1920;Siding;Composition Shingles;3;Natural Gas;Steam or Hot Water System;15-19 Years old;6;Natural Gas;Medium;ИСТИНА;-1;41;1728;768;6139
+1959;Stone;Composition Shingles;4;Natural Gas;Steam or Hot Water System;2-4 Years old;8;Natural Gas;Large;ИСТИНА;-1;42;1877;195;8046
+1950;Siding;Composition Shingles;2;Natural Gas;Heating Stove;15-19 Years old;6;Natural Gas;Small;ИСТИНА;-1;30;1286;429;8234
+1948;Wood;Wood Shingles;2;-;Central Warm-Air Furnace;2-4 Years old;4;Fuel Oil;None;ИСТИНА;-1;41;1080;540;4522
+1920;Wood;Asphalt;2;Natural Gas;Steam or Hot Water System;>20 Years old;5;Natural Gas;Large;ИСТИНА;-1;41;748;88;3579
+1991;Siding;Composition Shingles;3;Electricity;Built-In Electric Units;15-19 Years old;4;Electricity;Medium;ИСТИНА;-1;30;880;440;22822
+1965;Brick;Composition Shingles;5;Electricity;Central Warm-Air Furnace;>20 Years old;7;Natural Gas;Large;ИСТИНА;7;42;2295;2295;20791
+1969;Stucco;Composition Shingles;3;Natural Gas;Fireplace;>20 Years old;2;Natural Gas;Medium;ИСТИНА;-1;30;720;1080;4942
+2002;Wood;Composition Shingles;3;Electricity;Built-In Electric Units;5-9 Years old;6;Electricity;Medium;ИСТИНА;-1;20;1170;195;13453
+1972;Brick;Composition Shingles;3;Electricity;Heat Pump;15-19 Years old;6;Electricity;Medium;ИСТИНА;6;30;1820;1820;27328
+2003;Concrete;Ceramic or Clay Tiles;4;Natural Gas;Central Warm-Air Furnace;5-9 Years old;8;Electricity;Large;ИСТИНА;8;60;5590;6240;51043
+1965;Wood;Composition Shingles;2;Electricity;Central Warm-Air Furnace;15-19 Years old;5;Propane/LPG;Medium;ИСТИНА;5;50;3026;3026;12871
+1980;Stucco;Composition Shingles;4;Natural Gas;Central Warm-Air Furnace;<2 Years old;7;Natural Gas;Medium;ИСТИНА;7;41;1800;1800;9362
+2005;Brick;;1;Electricity;Central Warm-Air Furnace;2-4 Years old;3;Electricity;Medium;ЛОЖЬ;-1;41;994;0;8216
+1955;Wood;Composition Shingles;3;Electricity;Central Warm-Air Furnace;2-4 Years old;8;Electricity;Medium;ЛОЖЬ;-1;50;1937;0;14577
+2009;Siding;Asphalt;2;Propane/LPG;Central Warm-Air Furnace;<2 Years old;4;Propane/LPG;Small;ИСТИНА;4;41;1042;1042;5402
+1943;Siding;Asphalt;3;Natural Gas;Central Warm-Air Furnace;10-14 Years old;6;Natural Gas;Medium;ИСТИНА;6;50;3088;3088;13830
+1994;Siding;Asphalt;4;Electricity;Central Warm-Air Furnace;2-4 Years old;7;Electricity;Large;ИСТИНА;7;41;2049;2049;17055
+2001;Brick;Composition Shingles;3;Electricity;Central Warm-Air Furnace;5-9 Years old;5;Electricity;Medium;ИСТИНА;5;30;1155;1155;10626
+1920;Siding;Asphalt;2;Electricity;Central Warm-Air Furnace;15-19 Years old;6;Electricity;Medium;ЛОЖЬ;-1;42;1440;0;14242
+1963;Brick;Composition Shingles;3;Electricity;Built-In Electric Units;5-9 Years old;5;Electricity;Medium;ИСТИНА;-1;30;1127;901;24977
+1974;Wood;Composition Shingles;4;Electricity;Central Warm-Air Furnace;10-14 Years old;7;Natural Gas;Large;ИСТИНА;7;0;1830;1830;19179
+1976;Wood;Concrete Tiles;3;-;Central Warm-Air Furnace;>20 Years old;3;Electricity;Medium;ИСТИНА;5;41;1090;1817;9433
+1982;Wood;Composition Shingles;2;Electricity;Central Warm-Air Furnace;15-19 Years old;5;Natural Gas;Small;ИСТИНА;5;30;586;586;5960
+1928;Siding;Composition Shingles;3;Natural Gas;Steam or Hot Water System;10-14 Years old;6;Fuel Oil;None;ЛОЖЬ;-1;42;1655;0;5354
+1920;Wood;Composition Shingles;2;Natural Gas;Central Warm-Air Furnace;10-14 Years old;6;Natural Gas;Medium;ЛОЖЬ;-1;41;1685;0;4974
+1987;Siding;Composition Shingles;3;Electricity;Central Warm-Air Furnace;>20 Years old;6;Natural Gas;Medium;ИСТИНА;6;41;1955;1955;4210
+1920;Wood;Wood Shingles;2;-;Built-In Room Heater;>20 Years old;6;Electricity;Medium;ЛОЖЬ;-1;30;1231;0;9581
+2001;Concrete;Asphalt;3;Electricity;;5-9 Years old;-2;Electricity;Large;ИСТИНА;5;30;0;1256;12483
+1965;Stucco;Composition Shingles;3;Natural Gas;Built-In Room Heater;>20 Years old;6;Natural Gas;Large;ЛОЖЬ;-1;41;2608;0;4247
+2000;Siding;Metal;2;-;Portable Electric Heaters;<2 Years old;3;Electricity;Small;ИСТИНА;-1;41;845;563;8504
+1952;Stucco;Asphalt;2;Natural Gas;Central Warm-Air Furnace;15-19 Years old;6;Natural Gas;Small;ИСТИНА;-1;30;868;289;5856
+1960;Wood;Composition Shingles;3;-;Central Warm-Air Furnace;<2 Years old;6;Electricity;Medium;ИСТИНА;6;30;2720;2720;7337
+2000;Siding;Asphalt;4;Natural Gas;Central Warm-Air Furnace;10-14 Years old;7;Electricity;Large;ИСТИНА;7;50;2012;2012;12302
+1950;Brick;Wood Shingles;3;Natural Gas;Central Warm-Air Furnace;10-14 Years old;5;Natural Gas;Large;ИСТИНА;5;30;1956;1956;8272
+1971;Siding;Asphalt;2;Electricity;Central Warm-Air Furnace;2-4 Years old;6;Electricity;Medium;ИСТИНА;6;41;1728;1728;15425
+1955;Siding;Composition Shingles;2;-;Steam or Hot Water System;15-19 Years old;4;Natural Gas;Medium;ИСТИНА;-1;30;1204;1204;5884
+1985;Stucco;Ceramic or Clay Tiles;6;-;Central Warm-Air Furnace;5-9 Years old;9;Natural Gas;Large;ИСТИНА;9;41;2624;2624;6121
+1995;Brick;Composition Shingles;5;Electricity;Central Warm-Air Furnace;10-14 Years old;12;Natural Gas;Large;ИСТИНА;12;50;2821;2821;24880
+1976;Wood;Composition Shingles;4;Electricity;Central Warm-Air Furnace;>20 Years old;8;Electricity;Large;ИСТИНА;8;50;4577;4577;41537
+1950;Wood;Composition Shingles;2;Propane/LPG;Steam or Hot Water System;10-14 Years old;4;Fuel Oil;Small;ИСТИНА;-1;41;925;463;5273
+1990;Wood;;3;Electricity;Central Warm-Air Furnace;15-19 Years old;5;Electricity;Large;ИСТИНА;5;20;1325;1325;10998
+2003;Concrete;;3;Electricity;Central Warm-Air Furnace;5-9 Years old;4;Electricity;Medium;ИСТИНА;4;42;1456;1456;9848
+1973;Brick;Composition Shingles;4;Electricity;Central Warm-Air Furnace;<2 Years old;8;Electricity;Large;ИСТИНА;8;30;2958;2958;27391
+1995;Siding;Asphalt;3;Natural Gas;Central Warm-Air Furnace;5-9 Years old;5;Natural Gas;Medium;ИСТИНА;5;41;1820;1820;8267
+1970;Siding;;1;Electricity;Built-In Electric Units;>20 Years old;3;Electricity;Medium;ИСТИНА;-1;20;691;230;7788
+1976;Brick;Asphalt;3;Electricity;Central Warm-Air Furnace;10-14 Years old;1;Electricity;Medium;ИСТИНА;8;41;828;3825;29817
+1978;Stucco;Wood Shingles;3;Electricity;Heat Pump;2-4 Years old;6;Electricity;Medium;ИСТИНА;6;30;1875;1875;4756
+1960;Brick;;1;Electricity;Portable Electric Heaters;<2 Years old;3;Electricity;Small;ИСТИНА;3;30;769;769;9250
+1986;Siding;Composition Shingles;3;Electricity;Heat Pump;10-14 Years old;5;Electricity;Large;ИСТИНА;5;60;1430;1430;16083
+2007;Wood;Composition Shingles;4;Natural Gas;Central Warm-Air Furnace;2-4 Years old;9;Natural Gas;Medium;ИСТИНА;9;50;3626;3626;8147
+1950;Brick;Composition Shingles;3;Electricity;Central Warm-Air Furnace;15-19 Years old;7;Natural Gas;Large;ИСТИНА;7;41;1344;1344;9623
+2007;Siding;Composition Shingles;5;Natural Gas;Central Warm-Air Furnace;2-4 Years old;9;Natural Gas;Large;ИСТИНА;9;41;3852;3852;6981
+1970;Wood;Composition Shingles;2;Electricity;Built-In Electric Units;>20 Years old;2;Electricity;Medium;ЛОЖЬ;-1;30;417;0;19164
+2007;Stucco;Ceramic or Clay Tiles;3;Natural Gas;Heat Pump;2-4 Years old;6;Natural Gas;Large;ИСТИНА;4;41;1706;1137;4485
+1996;Brick;;1;Electricity;Central Warm-Air Furnace;10-14 Years old;3;Electricity;Large;ИСТИНА;3;10;574;574;8652
+1948;Siding;Composition Shingles;4;Electricity;Steam or Hot Water System;>20 Years old;7;Fuel Oil;Small;ИСТИНА;-1;50;1740;246;4298
+1975;Stucco;Composition Shingles;3;Natural Gas;Central Warm-Air Furnace;>20 Years old;6;Natural Gas;Large;ИСТИНА;-1;60;1433;239;6961
+2002;Wood;Concrete Tiles;3;Natural Gas;Central Warm-Air Furnace;5-9 Years old;5;Natural Gas;Medium;ИСТИНА;5;30;1394;1394;6875
+1940;Concrete;;-2;Electricity;Heat Pump;<2 Years old;1;Electricity;Small;ИСТИНА;1;30;608;608;4014
+1969;Concrete;;1;Electricity;Other Equipment;>20 Years old;3;Other Fuel;Medium;ИСТИНА;3;10;1134;1134;6826
+1955;Siding;Composition Shingles;3;Electricity;Central Warm-Air Furnace;<2 Years old;7;Natural Gas;Medium;ИСТИНА;7;41;1512;1512;10490
+1968;Concrete;;1;Electricity;;Not Applicable;-2;Electricity;Medium;ИСТИНА;-1;30;0;453;7903
+1942;Brick;Ceramic or Clay Tiles;3;Natural Gas;Central Warm-Air Furnace;5-9 Years old;7;Natural Gas;Medium;ИСТИНА;6;60;1275;1182;8034
+1986;Stucco;Composition Shingles;4;Natural Gas;Central Warm-Air Furnace;>20 Years old;7;Natural Gas;Large;ИСТИНА;7;41;2204;2204;16327
+1977;Siding;Composition Shingles;4;Electricity;Central Warm-Air Furnace;>20 Years old;7;Natural Gas;Large;ИСТИНА;7;30;417;417;3884
+1990;Wood;Composition Shingles;3;Electricity;Central Warm-Air Furnace;2-4 Years old;4;Electricity;Medium;ИСТИНА;4;20;1538;1538;23070
+1955;Brick;Composition Shingles;2;Electricity;Central Warm-Air Furnace;5-9 Years old;5;Natural Gas;Small;ИСТИНА;5;41;1430;1144;2724
+1955;Siding;Composition Shingles;3;Electricity;Central Warm-Air Furnace;15-19 Years old;7;Electricity;Medium;ИСТИНА;7;50;1359;1359;9897
+1985;Siding;Wood Shingles;3;Natural Gas;Steam or Hot Water System;10-14 Years old;5;Natural Gas;Medium;ИСТИНА;-1;41;1200;480;6444
+2004;Siding;Composition Shingles;3;Electricity;Central Warm-Air Furnace;5-9 Years old;5;Electricity;Medium;ИСТИНА;5;30;860;860;8507
+1943;Wood;Composition Shingles;2;Natural Gas;Central Warm-Air Furnace;>20 Years old;4;Natural Gas;Medium;ИСТИНА;3;41;740;555;10894
+1957;Stucco;Composition Shingles;3;Natural Gas;Central Warm-Air Furnace;15-19 Years old;9;Natural Gas;Medium;ЛОЖЬ;-1;41;3818;0;6285
+1950;Wood;Composition Shingles;2;Electricity;Central Warm-Air Furnace;5-9 Years old;4;Electricity;Large;ЛОЖЬ;-1;30;780;0;21242
+1972;Brick;;1;Natural Gas;Central Warm-Air Furnace;15-19 Years old;3;Natural Gas;Small;ИСТИНА;-1;20;586;586;5861
+1958;Stucco;Asphalt;3;Natural Gas;Central Warm-Air Furnace;>20 Years old;6;Natural Gas;Small;ИСТИНА;-1;30;1281;214;6571
+1993;Siding;Composition Shingles;3;Natural Gas;Central Warm-Air Furnace;15-19 Years old;6;Electricity;Small;ИСТИНА;6;60;1080;1080;25851
+1920;Siding;Asphalt;4;Electricity;Steam or Hot Water System;>20 Years old;8;Fuel Oil;None;ЛОЖЬ;-1;60;2304;0;8593
+1976;Siding;Metal;2;Electricity;Central Warm-Air Furnace;10-14 Years old;4;Electricity;Small;ИСТИНА;4;30;1008;1008;16984
+2005;Siding;Composition Shingles;3;Electricity;Central Warm-Air Furnace;2-4 Years old;7;Electricity;Medium;ИСТИНА;7;30;1800;1800;9232
+1974;Brick;Asphalt;4;Electricity;Central Warm-Air Furnace;5-9 Years old;6;Natural Gas;Small;ИСТИНА;6;41;1607;1607;11494
+1969;Siding;Composition Shingles;2;Propane/LPG;Heating Stove;>20 Years old;4;Fuel Oil;Medium;ИСТИНА;-1;30;1258;315;5323
+1968;Brick;Composition Shingles;3;Electricity;Central Warm-Air Furnace;15-19 Years old;7;Electricity;Medium;ИСТИНА;-1;41;3010;1720;29408
+1961;Stucco;Asphalt;4;-;Central Warm-Air Furnace;2-4 Years old;9;Electricity;Large;ИСТИНА;6;50;3830;2553;34447
+1972;Wood;Composition Shingles;4;Natural Gas;Central Warm-Air Furnace;2-4 Years old;7;Natural Gas;Medium;ИСТИНА;7;50;1916;1916;7738
+1978;Brick;Composition Shingles;2;Natural Gas;Steam or Hot Water System;>20 Years old;5;Natural Gas;Large;ЛОЖЬ;-1;41;960;0;7039
+1970;Brick;;1;Electricity;Steam or Hot Water System;>20 Years old;5;Natural Gas;Large;ИСТИНА;-1;10;495;99;2574
+1920;Siding;Asphalt;2;Natural Gas;Steam or Hot Water System;10-14 Years old;5;Natural Gas;Small;ИСТИНА;-1;41;1196;478;5575
+2003;Stucco;Composition Shingles;3;Electricity;Central Warm-Air Furnace;5-9 Years old;6;Electricity;Large;ИСТИНА;6;41;1680;1680;14133
+2006;Brick;Asphalt;4;Natural Gas;Central Warm-Air Furnace;2-4 Years old;6;Natural Gas;Large;ИСТИНА;6;41;3322;3322;5488
+1920;Siding;Composition Shingles;3;-;Steam or Hot Water System;15-19 Years old;7;Electricity;Medium;ИСТИНА;-1;50;2148;1227;25019
+1941;Stucco;Ceramic or Clay Tiles;4;Electricity;;Not Applicable;-2;Electricity;None;ИСТИНА;8;30;0;1425;21824
+1985;Brick;Asphalt;2;Natural Gas;Central Warm-Air Furnace;10-14 Years old;4;Natural Gas;Small;ИСТИНА;3;10;914;685;3776
+1980;Stucco;Ceramic or Clay Tiles;2;Natural Gas;Central Warm-Air Furnace;>20 Years old;5;Electricity;Medium;ИСТИНА;5;20;1498;1498;7883
+2003;Stucco;Concrete Tiles;3;Natural Gas;Central Warm-Air Furnace;5-9 Years old;8;Natural Gas;Large;ИСТИНА;3;60;5936;2226;7314
+1978;Brick;Composition Shingles;3;Natural Gas;Central Warm-Air Furnace;10-14 Years old;6;Natural Gas;Medium;ИСТИНА;6;30;1888;1888;8450
+2003;Siding;Asphalt;3;Electricity;Central Warm-Air Furnace;5-9 Years old;5;Electricity;Medium;ИСТИНА;5;41;2590;2590;20078
+1965;Brick;Composition Shingles;3;Natural Gas;Central Warm-Air Furnace;10-14 Years old;6;Natural Gas;Large;ИСТИНА;6;41;1570;1570;27644
+1991;Stucco;Concrete Tiles;2;Natural Gas;Central Warm-Air Furnace;5-9 Years old;4;Natural Gas;Medium;ЛОЖЬ;-1;30;1965;0;2185
+1960;Siding;Composition Shingles;1;Electricity;Central Warm-Air Furnace;>20 Years old;5;Natural Gas;Medium;ИСТИНА;5;41;1230;1230;3993
+1978;Siding;Composition Shingles;2;Electricity;Heat Pump;5-9 Years old;6;Electricity;Large;ИСТИНА;6;30;1692;1692;10822
+1970;Wood;Asphalt;3;Electricity;;Not Applicable;-2;Electricity;Small;ИСТИНА;-1;41;0;978;9199
+1985;Siding;Composition Shingles;3;Electricity;Steam or Hot Water System;<2 Years old;6;Natural Gas;Large;ИСТИНА;6;41;2850;1424;9210
+1920;Brick;Slate;4;Electricity;Steam or Hot Water System;<2 Years old;8;Electricity;Medium;ИСТИНА;-1;42;2176;1360;11864
+1965;Brick;Composition Shingles;3;Natural Gas;Central Warm-Air Furnace;2-4 Years old;7;Electricity;Small;ИСТИНА;7;41;1778;1778;12926
+1970;Brick;Composition Shingles;2;Electricity;Central Warm-Air Furnace;15-19 Years old;4;Natural Gas;Small;ИСТИНА;-1;41;634;317;7090
+1942;Concrete;Wood Shingles;3;Natural Gas;Fireplace;2-4 Years old;3;Natural Gas;Medium;ИСТИНА;-1;41;458;305;6450
+1987;Wood;Composition Shingles;2;Electricity;Heat Pump;2-4 Years old;6;Electricity;Medium;ИСТИНА;6;30;3007;3007;13181
+1920;Stucco;Composition Shingles;3;Natural Gas;Central Warm-Air Furnace;10-14 Years old;8;Natural Gas;Large;ЛОЖЬ;-1;60;1840;0;8246
+1992;Concrete;Ceramic or Clay Tiles;5;Electricity;Heat Pump;10-14 Years old;7;Electricity;Medium;ИСТИНА;7;41;1974;1974;23848
+1920;Siding;Composition Shingles;-2;Electricity;Built-In Electric Units;>20 Years old;1;Electricity;Medium;ИСТИНА;-1;20;784;784;9060
+1968;Concrete;Wood Shingles;4;Electricity;;Not Applicable;-2;Electricity;Large;ИСТИНА;-1;42;0;782;9708
+1920;Brick;Asphalt;3;Natural Gas;Central Warm-Air Furnace;<2 Years old;5;Natural Gas;Medium;ИСТИНА;5;20;1372;1372;4130
+1993;Stucco;Ceramic or Clay Tiles;4;Natural Gas;Central Warm-Air Furnace;15-19 Years old;6;Natural Gas;Large;ИСТИНА;6;41;2051;2051;10758
+1920;Siding;Composition Shingles;3;Natural Gas;Steam or Hot Water System;>20 Years old;6;Fuel Oil;Medium;ИСТИНА;-1;41;1047;349;8937
+1930;Composition;Composition Shingles;2;Natural Gas;Central Warm-Air Furnace;10-14 Years old;4;Natural Gas;Medium;ИСТИНА;-1;30;826;206;4447
+2006;Brick;Asphalt;5;Electricity;Central Warm-Air Furnace;2-4 Years old;8;Natural Gas;Large;ИСТИНА;8;41;4400;4400;13666
+2004;Concrete;Asphalt;3;Electricity;Central Warm-Air Furnace;5-9 Years old;6;Electricity;Medium;ИСТИНА;6;30;1922;1922;19427
+1991;Brick;Composition Shingles;5;Natural Gas;Central Warm-Air Furnace;5-9 Years old;13;Natural Gas;Medium;ИСТИНА;6;60;7238;4425;10998
+1961;Wood;Composition Shingles;2;Natural Gas;Built-In Room Heater;2-4 Years old;3;Electricity;Large;ИСТИНА;-1;60;583;194;7822
+1966;Concrete;Composition Shingles;3;Electricity;Central Warm-Air Furnace;5-9 Years old;7;Electricity;Medium;ИСТИНА;7;41;1848;1848;19697
+1920;Wood;Asphalt;4;Natural Gas;Central Warm-Air Furnace;>20 Years old;9;Natural Gas;Large;ИСТИНА;-1;42;2368;526;7847
+1977;Siding;Metal;3;Electricity;Central Warm-Air Furnace;>20 Years old;6;Electricity;Medium;ЛОЖЬ;-1;41;924;0;8720
+1975;Brick;;2;Electricity;Central Warm-Air Furnace;>20 Years old;6;Natural Gas;Medium;ИСТИНА;6;30;1753;1753;4922
+1980;Wood;Ceramic or Clay Tiles;2;Electricity;Central Warm-Air Furnace;>20 Years old;4;Electricity;Medium;ЛОЖЬ;-1;41;1096;0;14121
+1986;Siding;Composition Shingles;2;Natural Gas;Central Warm-Air Furnace;>20 Years old;4;Natural Gas;Small;ИСТИНА;4;41;1684;1284;8957
+2004;Stucco;Ceramic or Clay Tiles;4;-;Central Warm-Air Furnace;5-9 Years old;9;Natural Gas;Large;ЛОЖЬ;-1;42;4460;0;6150
+1971;Siding;Composition Shingles;2;Electricity;Central Warm-Air Furnace;<2 Years old;3;Natural Gas;Small;ИСТИНА;3;30;702;702;4284
+1970;Wood;Wood Shingles;-2;Electricity;Central Warm-Air Furnace;10-14 Years old;1;Electricity;Large;ИСТИНА;1;20;497;497;9007
+1920;Stucco;;1;Natural Gas;;>20 Years old;-2;Natural Gas;Medium;ЛОЖЬ;-1;30;0;0;1181
+1980;Brick;Composition Shingles;2;Electricity;Central Warm-Air Furnace;>20 Years old;4;Natural Gas;Small;ЛОЖЬ;-1;20;634;0;2309
+1950;Brick;;-2;-;;>20 Years old;-2;Natural Gas;Large;ЛОЖЬ;-1;20;0;0;2057
+1957;Siding;Composition Shingles;4;Natural Gas;Central Warm-Air Furnace;5-9 Years old;9;Natural Gas;Small;ИСТИНА;5;42;1855;824;11628
+1970;Siding;Metal;2;Natural Gas;Central Warm-Air Furnace;>20 Years old;4;Natural Gas;Small;ИСТИНА;-1;50;840;210;8544
+2002;Siding;Composition Shingles;4;Natural Gas;Central Warm-Air Furnace;5-9 Years old;9;Electricity;None;ИСТИНА;9;50;2656;2656;19712
+1982;Brick;Asphalt;3;Electricity;Central Warm-Air Furnace;5-9 Years old;3;Electricity;Large;ИСТИНА;2;41;1045;697;9285
+1978;Composition;Composition Shingles;4;Electricity;Steam or Hot Water System;>20 Years old;9;Fuel Oil;None;ИСТИНА;9;41;2824;2824;6705
+1957;Siding;Composition Shingles;3;Electricity;Central Warm-Air Furnace;10-14 Years old;7;Natural Gas;Medium;ИСТИНА;7;41;1280;1280;12016
+1996;Siding;Metal;3;Electricity;Central Warm-Air Furnace;10-14 Years old;6;Electricity;Small;ИСТИНА;6;30;1280;1280;37083
+1993;Brick;Composition Shingles;1;Natural Gas;Floor or Wall Pipeless Furnace;15-19 Years old;2;Electricity;Medium;ИСТИНА;-1;10;968;484;4475
+1920;Siding;Composition Shingles;4;Electricity;Central Warm-Air Furnace;10-14 Years old;10;Natural Gas;Medium;ИСТИНА;10;50;2866;2866;14562
+2002;Siding;Composition Shingles;3;Natural Gas;Central Warm-Air Furnace;5-9 Years old;6;Natural Gas;Medium;ИСТИНА;4;41;1680;1120;27600
+1965;Brick;Asphalt;3;Electricity;Heat Pump;5-9 Years old;7;Electricity;Large;ИСТИНА;7;50;1925;1925;16254
+1968;Siding;Composition Shingles;3;Electricity;Central Warm-Air Furnace;>20 Years old;5;Natural Gas;Medium;ИСТИНА;5;41;2920;2920;7265
+1972;Siding;Asphalt;2;Electricity;Central Warm-Air Furnace;>20 Years old;4;Natural Gas;Large;ИСТИНА;4;41;1264;1264;2943
+1956;Stone;Asphalt;3;Natural Gas;Steam or Hot Water System;>20 Years old;6;Natural Gas;Medium;ИСТИНА;-1;30;1040;173;3138
+1948;Stucco;Composition Shingles;1;Natural Gas;Portable Electric Heaters;2-4 Years old;1;Natural Gas;Medium;ЛОЖЬ;-1;30;388;0;3608
+1980;Stucco;Ceramic or Clay Tiles;2;Natural Gas;Central Warm-Air Furnace;>20 Years old;5;Natural Gas;Large;ИСТИНА;5;41;893;893;3671
+1972;Brick;Metal;5;Natural Gas;Central Warm-Air Furnace;>20 Years old;8;Natural Gas;Large;ИСТИНА;8;41;1738;1738;9243
+1944;Stucco;Composition Shingles;2;Natural Gas;Portable Electric Heaters;2-4 Years old;2;Natural Gas;Medium;ИСТИНА;-1;30;530;265;4798
+1995;Stone;Composition Shingles;3;-;Built-In Electric Units;15-19 Years old;4;Electricity;Medium;ИСТИНА;-1;60;920;230;21322
+2001;Siding;Composition Shingles;5;Electricity;Central Warm-Air Furnace;5-9 Years old;12;Electricity;Large;ИСТИНА;12;41;3656;3656;20967
+1950;Brick;;1;Electricity;Steam or Hot Water System;>20 Years old;3;Fuel Oil;Large;ИСТИНА;-1;50;664;221;3214
+1953;Stucco;Composition Shingles;1;Natural Gas;Built-In Room Heater;>20 Years old;3;Natural Gas;Large;ИСТИНА;-1;20;592;395;3693
+1979;Stucco;Composition Shingles;3;Natural Gas;Central Warm-Air Furnace;10-14 Years old;6;Natural Gas;Medium;ИСТИНА;6;41;2550;1275;7366
+2000;Siding;Composition Shingles;3;Natural Gas;Central Warm-Air Furnace;5-9 Years old;6;Natural Gas;Medium;ИСТИНА;6;42;1392;1392;18609
+1972;Brick;Metal;2;Natural Gas;Built-In Room Heater;>20 Years old;4;Natural Gas;Medium;ИСТИНА;-1;30;432;216;3552
+1988;Brick;Metal;3;Electricity;Central Warm-Air Furnace;5-9 Years old;7;Electricity;Medium;ИСТИНА;7;30;1151;1151;12810
+2001;Siding;Asphalt;7;Propane/LPG;Central Warm-Air Furnace;5-9 Years old;10;Propane/LPG;Medium;ИСТИНА;10;41;2400;2400;10487
+1920;Brick;;1;Other Fuel;Steam or Hot Water System;15-19 Years old;3;Natural Gas;Large;ИСТИНА;-1;30;845;564;2212
+1998;Siding;Asphalt;1;Electricity;Built-In Electric Units;10-14 Years old;5;Natural Gas;Large;ИСТИНА;-1;10;1247;249;5269
+1977;Brick;;1;Electricity;Central Warm-Air Furnace;>20 Years old;3;Electricity;Large;ИСТИНА;3;20;625;625;11344
+1920;Siding;Composition Shingles;4;Natural Gas;Portable Electric Heaters;<2 Years old;4;Electricity;Large;ИСТИНА;-1;41;557;406;11650
+2001;Siding;Composition Shingles;6;Electricity;Central Warm-Air Furnace;5-9 Years old;9;Natural Gas;Medium;ИСТИНА;9;50;3272;3272;16675
+1978;Brick;Composition Shingles;3;Electricity;Heat Pump;10-14 Years old;8;Electricity;Medium;ИСТИНА;8;41;2925;2925;12748
+1988;Wood;Composition Shingles;4;Electricity;Central Warm-Air Furnace;5-9 Years old;9;Electricity;Medium;ИСТИНА;9;50;2246;2246;1891
+1965;Brick;Composition Shingles;3;Natural Gas;Central Warm-Air Furnace;10-14 Years old;6;Natural Gas;Medium;ИСТИНА;6;41;1650;1650;14590
+1988;Siding;;2;Electricity;Steam or Hot Water System;>20 Years old;4;Natural Gas;Small;ИСТИНА;-1;41;881;220;3475
+1990;Wood;;2;Electricity;Built-In Electric Units;15-19 Years old;6;Electricity;Medium;ЛОЖЬ;-1;42;1137;0;10280
+2007;Wood;Metal;1;Electricity;Other Equipment;5-9 Years old;2;Electricity;Small;ИСТИНА;-1;20;443;221;5193
+1988;Siding;Composition Shingles;3;Electricity;Steam or Hot Water System;>20 Years old;7;Natural Gas;Large;ЛОЖЬ;-1;41;2300;0;8493
+1929;Stucco;Asphalt;3;Electricity;Central Warm-Air Furnace;10-14 Years old;7;Natural Gas;Medium;ИСТИНА;7;60;2126;2126;5988
+1980;Wood;;-2;Electricity;Built-In Electric Units;>20 Years old;1;Electricity;Large;ЛОЖЬ;-1;20;544;0;2240
+1985;Siding;Composition Shingles;2;Electricity;Central Warm-Air Furnace;>20 Years old;4;Natural Gas;Medium;ИСТИНА;4;41;815;815;4428
+1972;Stucco;Composition Shingles;4;Natural Gas;Central Warm-Air Furnace;10-14 Years old;8;Natural Gas;Medium;ИСТИНА;8;41;2620;2620;9240
+1930;Wood;Asphalt;2;Electricity;Central Warm-Air Furnace;>20 Years old;4;Natural Gas;Medium;ИСТИНА;4;41;2176;1088;8298
+2000;Brick;;-2;Electricity;Built-In Electric Units;5-9 Years old;1;Electricity;Large;ИСТИНА;1;20;576;576;3325
+1972;Brick;Wood Shingles;3;Electricity;Heat Pump;15-19 Years old;5;Electricity;Medium;ИСТИНА;5;30;891;891;16909
+1980;Composition;Composition Shingles;2;Electricity;Central Warm-Air Furnace;15-19 Years old;5;Electricity;Small;ИСТИНА;5;20;1382;1382;23220
+1996;Brick;;2;Electricity;Central Warm-Air Furnace;5-9 Years old;4;Electricity;Medium;ИСТИНА;4;20;1024;1024;9333
+2002;Siding;Composition Shingles;2;Electricity;Central Warm-Air Furnace;5-9 Years old;6;Natural Gas;None;ЛОЖЬ;-1;30;1064;0;8323
+1946;Siding;Composition Shingles;3;Electricity;Heat Pump;10-14 Years old;7;Electricity;Medium;ИСТИНА;7;41;1681;1681;18263
+1980;Brick;;1;Electricity;Steam or Hot Water System;10-14 Years old;2;Natural Gas;Large;ИСТИНА;-1;10;505;253;2895
+1964;Wood;Composition Shingles;4;-;Central Warm-Air Furnace;5-9 Years old;9;Natural Gas;Large;ЛОЖЬ;-1;30;2331;0;13725
+2002;Siding;Composition Shingles;4;Electricity;Central Warm-Air Furnace;5-9 Years old;10;Natural Gas;Medium;ИСТИНА;10;42;4765;4765;13897
+1950;Siding;Wood Shingles;2;Electricity;Central Warm-Air Furnace;>20 Years old;5;Electricity;Large;ИСТИНА;-1;41;2126;1276;10617
+1972;Wood;Composition Shingles;3;Natural Gas;Built-In Room Heater;2-4 Years old;5;Natural Gas;None;ЛОЖЬ;-1;30;1184;0;11563
+1992;Siding;Composition Shingles;1;Electricity;Steam or Hot Water System;<2 Years old;4;Natural Gas;Large;ИСТИНА;4;20;490;490;3448
+1959;Siding;Asphalt;2;Electricity;Central Warm-Air Furnace;10-14 Years old;4;Natural Gas;Medium;ИСТИНА;4;42;2480;2480;4976
+1958;Stucco;Composition Shingles;2;-;;Not Applicable;-2;Propane/LPG;Medium;ЛОЖЬ;-1;20;0;0;3519
+1990;Siding;Metal;3;Electricity;Heat Pump;5-9 Years old;6;Electricity;Small;ИСТИНА;6;30;1176;1176;20770
+1920;Siding;Metal;3;Propane/LPG;Heating Stove;>20 Years old;4;Propane/LPG;Medium;ИСТИНА;-1;30;821;410;4059
+1995;Siding;Composition Shingles;5;Natural Gas;Central Warm-Air Furnace;15-19 Years old;8;Natural Gas;Large;ИСТИНА;8;41;3433;3433;10627
+1940;Brick;;1;Natural Gas;Steam or Hot Water System;>20 Years old;3;Fuel Oil;Large;ИСТИНА;-1;41;785;262;2011
+1994;Wood;Composition Shingles;3;Electricity;Central Warm-Air Furnace;15-19 Years old;6;Natural Gas;Medium;ИСТИНА;6;30;2412;2412;7889
+1979;Wood;Metal;2;Natural Gas;Central Warm-Air Furnace;2-4 Years old;4;Natural Gas;Medium;ИСТИНА;3;30;660;495;14232
+1920;Other;Slate;4;Electricity;Steam or Hot Water System;5-9 Years old;8;Fuel Oil;Medium;ЛОЖЬ;-1;50;2668;0;2777
+1977;Wood;Wood Shingles;4;Electricity;Central Warm-Air Furnace;15-19 Years old;8;Electricity;Medium;ИСТИНА;4;42;3534;2555;33223
+2005;Siding;Composition Shingles;3;Natural Gas;Central Warm-Air Furnace;5-9 Years old;6;Natural Gas;Small;ИСТИНА;6;41;2096;2096;10053
+1966;Siding;Composition Shingles;3;Natural Gas;Central Warm-Air Furnace;<2 Years old;5;Natural Gas;Medium;ИСТИНА;5;30;1862;1862;11123
+1930;Siding;Composition Shingles;2;Electricity;Central Warm-Air Furnace;10-14 Years old;4;Natural Gas;Large;ИСТИНА;-1;30;691;691;4291
+1997;Wood;Asphalt;3;Electricity;Steam or Hot Water System;10-14 Years old;6;Fuel Oil;None;ЛОЖЬ;-1;42;1872;0;3769
+1985;Wood;;2;Natural Gas;Central Warm-Air Furnace;5-9 Years old;4;Natural Gas;Medium;ИСТИНА;4;20;818;818;8989
+1995;Stucco;Concrete Tiles;3;Electricity;Heat Pump;15-19 Years old;6;Electricity;Large;ИСТИНА;6;41;2888;2888;18245
+1934;Brick;Asphalt;2;Electricity;Central Warm-Air Furnace;5-9 Years old;4;Electricity;Large;ЛОЖЬ;-1;30;986;0;14608
+1977;Brick;Composition Shingles;3;Natural Gas;Central Warm-Air Furnace;>20 Years old;5;Natural Gas;Small;ИСТИНА;5;30;1420;1420;4478
+1990;Siding;Asphalt;4;Electricity;Central Warm-Air Furnace;<2 Years old;8;Electricity;Large;ИСТИНА;6;60;4044;3033;17093
+1940;Brick;Composition Shingles;2;Natural Gas;Steam or Hot Water System;2-4 Years old;5;Natural Gas;Large;ЛОЖЬ;-1;30;1029;0;3408
+1990;Brick;;1;Electricity;Central Warm-Air Furnace;15-19 Years old;3;Electricity;Medium;ИСТИНА;3;20;649;649;5689
+1971;Wood;Composition Shingles;4;Electricity;Heat Pump;5-9 Years old;6;Electricity;Large;ИСТИНА;8;42;1402;2893;24115
+1963;Wood;Metal;3;Electricity;Central Warm-Air Furnace;5-9 Years old;3;Natural Gas;Medium;ИСТИНА;4;41;1216;1538;18216
+1954;Wood;Composition Shingles;4;Electricity;;>20 Years old;-2;Natural Gas;Large;ЛОЖЬ;-1;42;0;0;8215
+1920;Siding;Asphalt;3;Natural Gas;Steam or Hot Water System;<2 Years old;7;Natural Gas;Medium;ИСТИНА;-1;42;4328;527;8964
+1924;Brick;Asphalt;4;Natural Gas;Central Warm-Air Furnace;15-19 Years old;9;Natural Gas;Medium;ИСТИНА;9;50;2419;2150;7059
+1993;Siding;Composition Shingles;2;-;Built-In Electric Units;15-19 Years old;7;Electricity;Large;ИСТИНА;7;41;2166;2166;17901
+2004;Stucco;Composition Shingles;4;Natural Gas;Central Warm-Air Furnace;5-9 Years old;8;Natural Gas;Medium;ИСТИНА;8;41;1668;1668;16906
+1969;Wood;Asphalt;4;-;Built-In Electric Units;>20 Years old;3;Electricity;Large;ИСТИНА;-1;50;757;505;17167
+1929;Siding;Asphalt;3;Electricity;Steam or Hot Water System;>20 Years old;6;Fuel Oil;None;ИСТИНА;-1;50;1508;251;5270
+1920;Wood;Composition Shingles;2;Electricity;Central Warm-Air Furnace;<2 Years old;4;Electricity;Medium;ИСТИНА;4;30;952;952;11721
+1927;Wood;Metal;3;Natural Gas;Heat Pump;5-9 Years old;7;Natural Gas;None;ИСТИНА;7;42;1410;1410;14263
+1963;Wood;Composition Shingles;3;Electricity;Central Warm-Air Furnace;15-19 Years old;10;Natural Gas;Large;ИСТИНА;9;42;2656;1721;9189
+1955;Siding;Composition Shingles;6;Electricity;Central Warm-Air Furnace;15-19 Years old;10;Electricity;Medium;ИСТИНА;10;41;2320;2320;17003
+1976;Siding;Composition Shingles;3;Electricity;Steam or Hot Water System;5-9 Years old;7;Fuel Oil;Large;ИСТИНА;4;50;1899;1899;15323
+1976;Siding;Concrete Tiles;3;Electricity;Central Warm-Air Furnace;15-19 Years old;7;Electricity;Small;ИСТИНА;-1;50;1982;280;9792
+2000;Stucco;Ceramic or Clay Tiles;3;Electricity;Central Warm-Air Furnace;5-9 Years old;6;Natural Gas;Medium;ИСТИНА;6;50;1448;1448;13152
+1981;Wood;Composition Shingles;3;Electricity;Built-In Room Heater;10-14 Years old;4;Electricity;Medium;ЛОЖЬ;-1;42;1382;0;5836
+1986;Siding;Metal;2;Electricity;Central Warm-Air Furnace;>20 Years old;5;Natural Gas;Medium;ИСТИНА;5;30;1272;1272;3686
+1998;Siding;Composition Shingles;2;Electricity;Central Warm-Air Furnace;10-14 Years old;5;Electricity;Medium;ИСТИНА;5;41;2663;2663;16143
+1960;Siding;Asphalt;3;Electricity;Central Warm-Air Furnace;10-14 Years old;6;Natural Gas;Medium;ИСТИНА;6;41;2555;2555;11666
+1920;Brick;;1;Natural Gas;Built-In Electric Units;>20 Years old;3;Electricity;Small;ЛОЖЬ;-1;20;411;0;6173
+1953;Wood;Wood Shingles;3;Natural Gas;Central Warm-Air Furnace;5-9 Years old;6;Natural Gas;Medium;ЛОЖЬ;-1;41;1517;0;4737
+1998;Siding;Asphalt;4;Natural Gas;Central Warm-Air Furnace;10-14 Years old;9;Natural Gas;Medium;ИСТИНА;9;60;2635;2635;11452
+2003;Concrete;Composition Shingles;3;Electricity;Central Warm-Air Furnace;5-9 Years old;5;Electricity;Large;ИСТИНА;5;30;1286;1286;12851
+1990;Brick;Composition Shingles;3;Electricity;Heat Pump;2-4 Years old;6;Electricity;Medium;ИСТИНА;6;41;2235;2235;23757
+1993;Wood;Composition Shingles;3;Electricity;Heat Pump;15-19 Years old;7;Electricity;Medium;ИСТИНА;7;30;1260;1260;13569
+1949;Siding;Asphalt;2;Electricity;Central Warm-Air Furnace;10-14 Years old;4;Natural Gas;Large;ИСТИНА;4;41;600;600;10042
+1972;Wood;Composition Shingles;4;Natural Gas;Floor or Wall Pipeless Furnace;10-14 Years old;8;Natural Gas;Large;ИСТИНА;-1;30;1800;225;10606
+1956;Brick;Composition Shingles;3;Electricity;Central Warm-Air Furnace;10-14 Years old;5;Electricity;Medium;ИСТИНА;5;42;2290;2290;14779
+1990;Siding;;2;Natural Gas;Central Warm-Air Furnace;15-19 Years old;6;Natural Gas;Medium;ИСТИНА;6;41;1359;1359;5428
+1930;Other;Asphalt;3;Natural Gas;Central Warm-Air Furnace;>20 Years old;6;Natural Gas;Medium;ИСТИНА;-1;30;1680;1260;4769
+1975;Siding;Asphalt;2;Electricity;Heat Pump;>20 Years old;4;Electricity;Small;ИСТИНА;4;30;3680;1680;25800
+1955;Brick;Composition Shingles;3;Natural Gas;Central Warm-Air Furnace;10-14 Years old;7;Natural Gas;Medium;ИСТИНА;6;41;3502;1833;11802
+2005;Siding;Composition Shingles;3;Natural Gas;Central Warm-Air Furnace;5-9 Years old;4;Natural Gas;Small;ИСТИНА;4;30;997;997;7450
+1970;Wood;;2;Natural Gas;;>20 Years old;-2;Electricity;Large;ИСТИНА;-1;20;0;261;4491
+1965;Stucco;;2;Electricity;Central Warm-Air Furnace;2-4 Years old;4;Electricity;None;ИСТИНА;4;30;850;850;5380
+2001;Wood;;1;Electricity;Central Warm-Air Furnace;5-9 Years old;2;Electricity;Large;ИСТИНА;2;20;296;296;6199
+1977;Brick;Asphalt;4;-;Heat Pump;<2 Years old;8;Electricity;Large;ИСТИНА;8;41;2806;2806;15167
+2005;Siding;Asphalt;3;Electricity;Central Warm-Air Furnace;5-9 Years old;6;Electricity;Medium;ИСТИНА;6;41;1863;1863;19218
+1920;Stone;Composition Shingles;2;Electricity;Central Warm-Air Furnace;2-4 Years old;6;Natural Gas;Medium;ИСТИНА;-1;41;3082;1027;5226
+1998;Brick;Composition Shingles;3;Electricity;Central Warm-Air Furnace;5-9 Years old;6;Electricity;Large;ИСТИНА;6;41;1716;1716;15969
+1985;Siding;Composition Shingles;3;Electricity;Central Warm-Air Furnace;>20 Years old;4;Natural Gas;Medium;ИСТИНА;3;41;1062;797;6595
+1975;Siding;Composition Shingles;2;Electricity;Steam or Hot Water System;<2 Years old;6;Fuel Oil;Small;ИСТИНА;-1;30;2885;1282;6277
+1964;Stucco;Slate;3;-;Central Warm-Air Furnace;10-14 Years old;6;Natural Gas;Large;ИСТИНА;6;30;1350;1350;7863
+1950;Wood;;1;Electricity;Steam or Hot Water System;<2 Years old;3;Fuel Oil;Large;ИСТИНА;-1;20;830;277;4702
+1950;Brick;Composition Shingles;4;Natural Gas;Central Warm-Air Furnace;5-9 Years old;6;Natural Gas;Small;ИСТИНА;6;41;1864;1864;4028
+1920;Wood;Composition Shingles;3;Other Fuel;Steam or Hot Water System;15-19 Years old;12;Natural Gas;Medium;ИСТИНА;-1;60;7791;1948;2742
+1920;Composition;Asphalt;3;Natural Gas;Heating Stove;<2 Years old;9;Natural Gas;Medium;ИСТИНА;-1;50;2456;546;873
+1992;Siding;Composition Shingles;3;Electricity;Steam or Hot Water System;15-19 Years old;6;Natural Gas;Medium;ИСТИНА;6;41;3243;3243;4243
+1959;Siding;Composition Shingles;4;Electricity;Central Warm-Air Furnace;5-9 Years old;9;Natural Gas;Medium;ИСТИНА;-1;41;1008;168;11341
+1974;Siding;Composition Shingles;3;Natural Gas;Central Warm-Air Furnace;5-9 Years old;5;Natural Gas;Medium;ИСТИНА;2;30;3238;935;8526
+1962;Wood;Composition Shingles;3;Natural Gas;Central Warm-Air Furnace;<2 Years old;6;Natural Gas;Medium;ИСТИНА;6;41;963;963;6781
+1960;Siding;;3;Electricity;Central Warm-Air Furnace;10-14 Years old;6;Electricity;Medium;ИСТИНА;6;30;1656;1656;9956
+1989;Wood;Composition Shingles;5;-;Central Warm-Air Furnace;<2 Years old;6;Natural Gas;Medium;ЛОЖЬ;-1;50;1511;0;8909
+1986;Brick;;1;Electricity;Steam or Hot Water System;>20 Years old;2;Natural Gas;Large;ИСТИНА;-1;30;787;393;1345
+1994;Stucco;Ceramic or Clay Tiles;5;Natural Gas;Central Warm-Air Furnace;15-19 Years old;9;Natural Gas;Medium;ИСТИНА;9;60;3292;3292;27651
+1990;Brick;Composition Shingles;1;Electricity;Central Warm-Air Furnace;5-9 Years old;3;Electricity;Large;ИСТИНА;3;10;1055;1055;5775
+1970;Stucco;;2;Natural Gas;;>20 Years old;-2;Natural Gas;Medium;ИСТИНА;-1;30;0;259;4960
+1958;Siding;Composition Shingles;3;Electricity;Central Warm-Air Furnace;<2 Years old;7;Natural Gas;Medium;ИСТИНА;7;42;2744;1829;8520
+1959;Concrete;Composition Shingles;3;-;Heat Pump;<2 Years old;6;Propane/LPG;None;ИСТИНА;6;30;2336;2336;29314
+1920;Wood;Asphalt;4;Natural Gas;Central Warm-Air Furnace;<2 Years old;8;Natural Gas;Large;ИСТИНА;-1;42;2728;682;5985
+1968;Siding;Asphalt;3;Electricity;Built-In Room Heater;>20 Years old;5;Fuel Oil;Medium;ИСТИНА;-1;41;2000;400;5994
+1972;Brick;;2;Natural Gas;Steam or Hot Water System;5-9 Years old;4;Natural Gas;Large;ИСТИНА;-1;20;800;400;2705
+1987;Siding;Asphalt;4;Propane/LPG;Central Warm-Air Furnace;10-14 Years old;9;Propane/LPG;Small;ИСТИНА;9;41;2031;1039;13273
+1980;Brick;;1;Electricity;Central Warm-Air Furnace;10-14 Years old;4;Electricity;Small;ИСТИНА;4;10;646;646;10230
+1955;Wood;Composition Shingles;2;Electricity;Built-In Electric Units;10-14 Years old;5;Electricity;Medium;ЛОЖЬ;-1;41;887;0;16979
+1989;Wood;Composition Shingles;2;Natural Gas;Central Warm-Air Furnace;5-9 Years old;4;Electricity;Medium;ИСТИНА;4;50;1411;1411;9002
+2005;Siding;Composition Shingles;3;Electricity;Central Warm-Air Furnace;5-9 Years old;6;Electricity;Medium;ИСТИНА;6;42;1568;1568;20893
+1959;Stucco;Composition Shingles;3;-;Central Warm-Air Furnace;>20 Years old;6;Natural Gas;Large;ИСТИНА;4;41;1530;1020;4050
+1996;Stucco;;2;Natural Gas;Central Warm-Air Furnace;10-14 Years old;3;Electricity;Medium;ИСТИНА;3;10;1463;1463;3603
+1980;Siding;Metal;2;Natural Gas;Central Warm-Air Furnace;15-19 Years old;4;Natural Gas;Small;ЛОЖЬ;-1;30;627;0;4518
+1920;Wood;Composition Shingles;3;Natural Gas;Central Warm-Air Furnace;5-9 Years old;6;Natural Gas;Large;ИСТИНА;-1;41;2100;350;7273
+1950;Brick;Other;3;-;Steam or Hot Water System;15-19 Years old;5;Natural Gas;Large;ЛОЖЬ;-1;30;1308;0;3160
+1947;Wood;Composition Shingles;3;Propane/LPG;Built-In Room Heater;15-19 Years old;7;Electricity;Large;ИСТИНА;-1;41;1075;154;22424
+1966;Stucco;Composition Shingles;4;Natural Gas;Central Warm-Air Furnace;>20 Years old;7;Electricity;Medium;ИСТИНА;7;41;2016;2016;15944
+1970;Brick;Wood Shingles;1;Natural Gas;Central Warm-Air Furnace;>20 Years old;3;Natural Gas;Medium;ИСТИНА;3;30;569;569;6222
+2005;Siding;Composition Shingles;3;Electricity;Heat Pump;2-4 Years old;6;Electricity;Medium;ИСТИНА;6;30;2302;2302;14869
+2006;Brick;Composition Shingles;4;Electricity;Central Warm-Air Furnace;2-4 Years old;9;Electricity;Large;ИСТИНА;8;50;3340;2969;23633
+1920;Siding;Asphalt;3;Electricity;Central Warm-Air Furnace;10-14 Years old;7;Electricity;Medium;ИСТИНА;-1;42;1869;666;10352
+1983;Stucco;Composition Shingles;3;Natural Gas;Central Warm-Air Furnace;>20 Years old;5;Natural Gas;Medium;ИСТИНА;-1;30;1164;233;8319
+1996;Composition;Composition Shingles;3;Electricity;Heat Pump;2-4 Years old;5;Electricity;Large;ИСТИНА;5;30;1296;1296;9305
+1976;Brick;Composition Shingles;2;Electricity;Central Warm-Air Furnace;5-9 Years old;6;Electricity;Small;ИСТИНА;6;30;2432;2432;8807
+1993;Wood;Composition Shingles;3;Propane/LPG;Central Warm-Air Furnace;15-19 Years old;10;Electricity;Large;ИСТИНА;10;41;2960;2960;9752
+2008;Siding;Composition Shingles;4;Electricity;Central Warm-Air Furnace;<2 Years old;9;Electricity;Medium;ИСТИНА;9;50;3170;3170;23649
+1996;Siding;Composition Shingles;2;Natural Gas;Central Warm-Air Furnace;10-14 Years old;4;Natural Gas;Large;ИСТИНА;4;41;2835;2190;4182
+1991;Siding;Asphalt;6;Electricity;Central Warm-Air Furnace;2-4 Years old;10;Natural Gas;Medium;ИСТИНА;10;41;1858;1858;11986
+1950;Stucco;Composition Shingles;3;Natural Gas;Floor or Wall Pipeless Furnace;2-4 Years old;3;Natural Gas;Medium;ЛОЖЬ;-1;41;756;0;2087
+1920;Wood;Asphalt;3;Natural Gas;Steam or Hot Water System;>20 Years old;6;Natural Gas;Medium;ЛОЖЬ;-1;50;1344;0;5781
+1972;Brick;Composition Shingles;2;Electricity;Central Warm-Air Furnace;15-19 Years old;5;Electricity;Medium;ИСТИНА;5;41;1872;1872;19243
+1989;Brick;Composition Shingles;4;Electricity;Central Warm-Air Furnace;10-14 Years old;8;Natural Gas;Large;ИСТИНА;6;41;1705;848;13438
+1970;Stone;;1;Electricity;Central Warm-Air Furnace;<2 Years old;2;Electricity;None;ИСТИНА;2;20;525;525;2725
+1975;Stucco;Composition Shingles;3;Natural Gas;Central Warm-Air Furnace;>20 Years old;5;Natural Gas;Medium;ИСТИНА;5;20;1490;1490;7748
+1980;Siding;Composition Shingles;4;Electricity;Central Warm-Air Furnace;10-14 Years old;5;Electricity;Medium;ИСТИНА;5;42;1271;1271;7776
+1996;Siding;Metal;3;Electricity;Central Warm-Air Furnace;10-14 Years old;3;Electricity;Medium;ИСТИНА;5;41;638;1064;8779
+1954;Siding;Composition Shingles;3;Electricity;Central Warm-Air Furnace;10-14 Years old;9;Natural Gas;Medium;ИСТИНА;9;41;2732;2732;10809
+1935;Brick;;2;Natural Gas;Steam or Hot Water System;15-19 Years old;4;Natural Gas;None;ИСТИНА;-1;20;726;545;3041
+1980;Siding;Asphalt;3;Natural Gas;Central Warm-Air Furnace;15-19 Years old;4;Electricity;Small;ЛОЖЬ;-1;41;741;0;1187
+1955;Siding;Composition Shingles;1;Electricity;Central Warm-Air Furnace;2-4 Years old;4;Natural Gas;Medium;ИСТИНА;-1;30;1444;144;9837
+1997;Composition;Composition Shingles;4;Natural Gas;Central Warm-Air Furnace;10-14 Years old;10;Natural Gas;Large;ИСТИНА;10;60;4151;4151;15074
+1962;Brick;Composition Shingles;3;Natural Gas;Central Warm-Air Furnace;2-4 Years old;7;Natural Gas;Medium;ИСТИНА;7;41;2223;2223;10037
+1963;Stucco;Composition Shingles;3;Natural Gas;;>20 Years old;-2;Natural Gas;Medium;ЛОЖЬ;-1;30;0;0;3499
+1970;Brick;;1;Electricity;Built-In Electric Units;10-14 Years old;1;Electricity;Large;ИСТИНА;-1;20;306;612;13827
+2004;Siding;Composition Shingles;2;Electricity;Central Warm-Air Furnace;5-9 Years old;5;Natural Gas;Medium;ИСТИНА;5;0;3317;3317;6885
+1950;Brick;Composition Shingles;3;Natural Gas;Central Warm-Air Furnace;15-19 Years old;6;Natural Gas;Medium;ИСТИНА;6;41;1845;1845;10761
+1937;Wood;Asphalt;4;Electricity;Central Warm-Air Furnace;>20 Years old;8;Electricity;Large;ИСТИНА;-1;41;3082;809;13667
+1920;Siding;Composition Shingles;1;Electricity;Built-In Room Heater;2-4 Years old;2;Natural Gas;Small;ИСТИНА;-1;41;280;280;3463
+1980;Siding;Composition Shingles;3;Electricity;Central Warm-Air Furnace;5-9 Years old;6;Electricity;Large;ИСТИНА;6;41;980;980;28935
+1998;Stucco;;-2;Natural Gas;;10-14 Years old;-2;Natural Gas;Large;ИСТИНА;-1;20;0;527;5345
+1965;Wood;Composition Shingles;2;Natural Gas;Central Warm-Air Furnace;5-9 Years old;2;Natural Gas;Medium;ИСТИНА;-1;30;400;200;12501
+1970;Stucco;;2;Electricity;Central Warm-Air Furnace;5-9 Years old;4;Electricity;Small;ИСТИНА;4;20;1004;1004;4773
+1937;Wood;Composition Shingles;2;Electricity;Floor or Wall Pipeless Furnace;15-19 Years old;2;Natural Gas;Medium;ЛОЖЬ;-1;41;644;0;7904
+1998;Stucco;Composition Shingles;2;Natural Gas;Central Warm-Air Furnace;10-14 Years old;2;Natural Gas;Medium;ЛОЖЬ;-1;20;506;0;3449
+1992;Brick;Composition Shingles;4;Electricity;Central Warm-Air Furnace;<2 Years old;10;Natural Gas;Large;ИСТИНА;10;42;2345;2345;13502
+1971;Brick;Composition Shingles;4;Natural Gas;Central Warm-Air Furnace;2-4 Years old;8;Natural Gas;Medium;ИСТИНА;8;30;2440;2440;25907
+1960;Siding;Composition Shingles;3;Natural Gas;Central Warm-Air Furnace;5-9 Years old;8;Natural Gas;Medium;ЛОЖЬ;-1;41;744;0;3115
+1978;Wood;;2;Electricity;Central Warm-Air Furnace;>20 Years old;5;Electricity;Medium;ИСТИНА;5;20;998;998;15497
+1979;Wood;Composition Shingles;2;Electricity;Central Warm-Air Furnace;10-14 Years old;4;Natural Gas;Small;ИСТИНА;4;30;2028;1620;7407
+1977;Wood;Composition Shingles;4;-;Steam or Hot Water System;>20 Years old;10;Natural Gas;Medium;ИСТИНА;4;50;3190;923;17002
+1980;Siding;Composition Shingles;1;Electricity;Central Warm-Air Furnace;5-9 Years old;4;Electricity;Small;ИСТИНА;4;30;1056;1056;11575
+1991;Wood;Ceramic or Clay Tiles;3;Natural Gas;Portable Electric Heaters;2-4 Years old;1;Natural Gas;Medium;ЛОЖЬ;-1;42;317;0;3943
+1991;Concrete;Asphalt;4;-;Other Equipment;<2 Years old;9;Electricity;Large;ИСТИНА;9;41;2890;2890;16768
+1985;Siding;Composition Shingles;2;Electricity;Heat Pump;>20 Years old;5;Electricity;Medium;ИСТИНА;5;30;1641;1641;10242
+1982;Brick;Asphalt;3;Electricity;Heat Pump;>20 Years old;7;Electricity;Large;ИСТИНА;8;41;1185;1355;45837
+2005;Brick;Metal;2;Electricity;Central Warm-Air Furnace;5-9 Years old;4;Natural Gas;Small;ИСТИНА;4;30;1525;1525;4471
+1957;Siding;Asphalt;4;Natural Gas;Steam or Hot Water System;15-19 Years old;7;Natural Gas;Medium;ИСТИНА;-1;41;2518;360;4153
+1960;Brick;;1;Electricity;Built-In Electric Units;>20 Years old;3;Electricity;Large;ИСТИНА;-1;20;646;215;8054
+1972;Stucco;Composition Shingles;4;Electricity;Central Warm-Air Furnace;>20 Years old;8;Natural Gas;Medium;ИСТИНА;8;42;4452;4452;14798
+2005;Brick;Ceramic or Clay Tiles;4;Natural Gas;Central Warm-Air Furnace;5-9 Years old;10;Natural Gas;Large;ИСТИНА;10;60;3343;3343;29667
+1989;Stucco;Ceramic or Clay Tiles;4;-;Central Warm-Air Furnace;<2 Years old;8;Electricity;Large;ИСТИНА;8;41;3092;3092;50566
+2000;Brick;;3;Electricity;Central Warm-Air Furnace;10-14 Years old;7;Electricity;Medium;ИСТИНА;7;30;1194;1194;11397
+1973;Stucco;;-2;Electricity;Central Warm-Air Furnace;15-19 Years old;1;Natural Gas;Large;ИСТИНА;1;20;735;735;2393
+1920;Wood;Asphalt;2;Natural Gas;Steam or Hot Water System;2-4 Years old;5;Natural Gas;Medium;ИСТИНА;-1;41;1102;661;2693
+2002;Concrete;Composition Shingles;4;Natural Gas;Heat Pump;5-9 Years old;6;Natural Gas;Small;ИСТИНА;3;41;2560;1280;9106
+1950;Brick;Asphalt;4;Natural Gas;Central Warm-Air Furnace;>20 Years old;9;Natural Gas;Medium;ИСТИНА;7;41;2627;2236;9916
+1968;Stucco;Composition Shingles;4;-;Central Warm-Air Furnace;5-9 Years old;7;Natural Gas;Medium;ИСТИНА;7;41;2035;2035;8892
+1950;Brick;Composition Shingles;3;Natural Gas;Central Warm-Air Furnace;2-4 Years old;5;Natural Gas;Medium;ИСТИНА;5;30;1050;1050;11897
+1968;Brick;;1;Natural Gas;Steam or Hot Water System;>20 Years old;3;Natural Gas;Large;ИСТИНА;-1;10;754;251;3310
+1940;Concrete;;2;Natural Gas;Portable Electric Heaters;<2 Years old;1;Electricity;Small;ИСТИНА;-1;30;99;297;7825
+1970;Siding;Metal;3;Electricity;Central Warm-Air Furnace;10-14 Years old;2;Electricity;Large;ИСТИНА;2;30;413;413;14768
+1950;Concrete;Ceramic or Clay Tiles;1;Electricity;;Not Applicable;-2;Electricity;Medium;ИСТИНА;-1;30;0;230;8775
+1965;Siding;Composition Shingles;3;Electricity;Central Warm-Air Furnace;>20 Years old;5;Natural Gas;Medium;ИСТИНА;5;41;936;936;7425
+1996;Stucco;;1;Electricity;Central Warm-Air Furnace;10-14 Years old;3;Natural Gas;Medium;ИСТИНА;3;20;552;552;4404
+1940;Concrete;Asphalt;3;-;Floor or Wall Pipeless Furnace;10-14 Years old;3;Natural Gas;Medium;ИСТИНА;-1;50;1262;421;8469
+1960;Brick;Wood Shingles;2;Electricity;Central Warm-Air Furnace;5-9 Years old;5;Electricity;Medium;ИСТИНА;5;30;1104;1104;14835
+2003;Composition;Composition Shingles;4;Electricity;Central Warm-Air Furnace;5-9 Years old;6;Electricity;Large;ИСТИНА;6;30;1472;1472;11717
+1920;Wood;Metal;2;Electricity;Steam or Hot Water System;>20 Years old;4;Fuel Oil;Small;ЛОЖЬ;-1;42;1060;0;2572
+1972;Brick;Composition Shingles;3;-;Central Warm-Air Furnace;<2 Years old;6;Electricity;Medium;ИСТИНА;6;41;3184;1728;764
+1971;Siding;Other;2;Electricity;Central Warm-Air Furnace;5-9 Years old;4;Natural Gas;Large;ЛОЖЬ;-1;41;784;0;8909
+1985;Wood;;1;Electricity;Central Warm-Air Furnace;10-14 Years old;4;Electricity;Large;ЛОЖЬ;-1;20;569;0;10360
+1938;Stucco;Composition Shingles;2;Natural Gas;Floor or Wall Pipeless Furnace;>20 Years old;5;Natural Gas;Medium;ЛОЖЬ;-1;41;1070;0;7070
+1992;Brick;Asphalt;2;Electricity;Heat Pump;15-19 Years old;7;Electricity;Medium;ИСТИНА;7;41;2200;2200;19271
+1962;Siding;Metal;3;Electricity;Central Warm-Air Furnace;5-9 Years old;4;Natural Gas;Medium;ИСТИНА;4;41;1542;1079;10019
+1956;Stucco;Composition Shingles;3;Natural Gas;Built-In Room Heater;>20 Years old;5;Natural Gas;Medium;ЛОЖЬ;-1;30;1040;0;6796
+1960;Brick;Wood Shingles;5;Electricity;Steam or Hot Water System;<2 Years old;10;Natural Gas;Small;ЛОЖЬ;-1;50;3844;0;8205
+1950;Siding;;2;Electricity;Built-In Electric Units;<2 Years old;4;Natural Gas;Large;ИСТИНА;-1;30;742;185;7058
+1968;Siding;Asphalt;3;Electricity;Heat Pump;2-4 Years old;9;Electricity;Medium;ИСТИНА;9;50;4031;4031;24271
+1960;Brick;Composition Shingles;4;Electricity;Central Warm-Air Furnace;10-14 Years old;7;Natural Gas;Medium;ИСТИНА;7;41;3009;3009;15370
+1973;Wood;Composition Shingles;2;Electricity;Steam or Hot Water System;2-4 Years old;12;Propane/LPG;Medium;ЛОЖЬ;-1;50;4136;0;7382
+1954;Siding;Composition Shingles;4;Propane/LPG;Built-In Room Heater;<2 Years old;8;Fuel Oil;Medium;ИСТИНА;-1;10;2430;911;7333
+1969;Stucco;;-2;Natural Gas;Cooking Stove;5-9 Years old;1;Natural Gas;Large;ИСТИНА;-1;20;663;663;3203
+2005;Brick;;2;Electricity;Central Warm-Air Furnace;2-4 Years old;5;Electricity;Large;ИСТИНА;5;42;700;700;4119
+1925;Brick;;3;Natural Gas;Steam or Hot Water System;>20 Years old;5;Electricity;Medium;ЛОЖЬ;-1;41;1219;0;2045
+1977;Brick;Composition Shingles;3;Electricity;Central Warm-Air Furnace;>20 Years old;6;Electricity;Large;ИСТИНА;6;41;1777;1777;23453
+1980;Stucco;Ceramic or Clay Tiles;2;Electricity;;>20 Years old;-2;Natural Gas;Medium;ЛОЖЬ;-1;20;0;0;2334
+1991;Brick;Metal;3;Electricity;Heat Pump;15-19 Years old;8;Electricity;Medium;ИСТИНА;8;60;2500;2500;17540
+1976;Wood;Metal;2;Natural Gas;Built-In Room Heater;5-9 Years old;3;Natural Gas;Small;ЛОЖЬ;-1;30;885;0;2256
+1989;Stucco;Composition Shingles;3;Electricity;Central Warm-Air Furnace;10-14 Years old;7;Electricity;Medium;ИСТИНА;7;41;2028;2028;18779
+2002;Brick;;1;Electricity;Central Warm-Air Furnace;5-9 Years old;3;Electricity;Large;ИСТИНА;3;10;596;596;9575
+2005;Siding;Composition Shingles;2;Electricity;Central Warm-Air Furnace;5-9 Years old;6;Electricity;Medium;ИСТИНА;6;41;4052;4052;23630
+1960;Wood;Wood Shingles;3;Natural Gas;Portable Electric Heaters;>20 Years old;2;Natural Gas;Medium;ЛОЖЬ;-1;41;545;0;5448
+1978;Stucco;Ceramic or Clay Tiles;4;Electricity;Heat Pump;<2 Years old;8;Electricity;Large;ИСТИНА;8;30;1556;1556;22742
+1981;Concrete;Ceramic or Clay Tiles;3;Propane/LPG;;5-9 Years old;-2;Electricity;None;ИСТИНА;5;30;0;2028;16758
+1920;Siding;Asphalt;3;Electricity;Central Warm-Air Furnace;<2 Years old;4;Natural Gas;Medium;ИСТИНА;4;42;1131;1131;10222
+2001;Wood;Composition Shingles;3;Electricity;Central Warm-Air Furnace;5-9 Years old;6;Electricity;Medium;ИСТИНА;-1;41;1232;616;19060
+1986;Siding;Composition Shingles;2;Natural Gas;Central Warm-Air Furnace;<2 Years old;5;Electricity;Medium;ИСТИНА;5;41;1370;1370;10910
+1980;Stucco;;2;Electricity;Steam or Hot Water System;>20 Years old;5;Natural Gas;Large;ИСТИНА;-1;20;1039;416;3633
+1945;Wood;Composition Shingles;5;Electricity;Heat Pump;5-9 Years old;7;Electricity;Small;ИСТИНА;7;42;2820;2820;29360
+1992;Wood;Asphalt;3;Electricity;Steam or Hot Water System;10-14 Years old;6;Propane/LPG;Medium;ИСТИНА;6;41;1696;1696;15941
+1930;Wood;Asphalt;2;Propane/LPG;Central Warm-Air Furnace;>20 Years old;4;Electricity;Large;ИСТИНА;-1;41;1680;210;4113
+1997;Siding;Wood Shingles;3;Electricity;Central Warm-Air Furnace;10-14 Years old;6;Electricity;Large;ИСТИНА;6;41;1920;1920;25087
+1978;Stucco;Composition Shingles;3;Electricity;Central Warm-Air Furnace;2-4 Years old;8;Electricity;Large;ИСТИНА;8;41;1354;1354;20666
+1990;Siding;Composition Shingles;5;-;Central Warm-Air Furnace;15-19 Years old;10;Natural Gas;Medium;ИСТИНА;10;50;4484;4484;19200
+1920;Siding;Asphalt;5;Electricity;Steam or Hot Water System;10-14 Years old;9;Fuel Oil;Medium;ЛОЖЬ;-1;50;2500;0;12568
+1946;Brick;;3;Natural Gas;Steam or Hot Water System;10-14 Years old;5;Fuel Oil;Large;ИСТИНА;-1;30;1114;446;8581
+2006;Siding;Asphalt;2;Electricity;Central Warm-Air Furnace;2-4 Years old;5;Natural Gas;Medium;ИСТИНА;5;41;1150;1150;5792
+1977;Wood;Composition Shingles;4;-;Heating Stove;2-4 Years old;5;Propane/LPG;Large;ИСТИНА;5;41;1649;1649;11682
+1970;Brick;;2;Electricity;Central Warm-Air Furnace;>20 Years old;5;Electricity;Small;ИСТИНА;6;20;1134;1361;11158
+2004;Concrete;Composition Shingles;4;Electricity;Central Warm-Air Furnace;2-4 Years old;8;Electricity;Medium;ИСТИНА;8;30;2760;2760;11765
+2000;Brick;;1;Natural Gas;Steam or Hot Water System;5-9 Years old;2;Natural Gas;Large;ИСТИНА;-1;20;850;850;3021
+1955;Stucco;Composition Shingles;1;Electricity;Built-In Electric Units;>20 Years old;4;Electricity;Large;ИСТИНА;-1;10;617;154;11014
+2001;Concrete;Ceramic or Clay Tiles;4;Electricity;Central Warm-Air Furnace;<2 Years old;8;Electricity;Medium;ИСТИНА;8;42;2669;2669;36433
+1976;Brick;Composition Shingles;3;-;Central Warm-Air Furnace;2-4 Years old;7;Natural Gas;Large;ИСТИНА;7;50;1589;1589;16980
+1985;Siding;Composition Shingles;2;Electricity;Central Warm-Air Furnace;>20 Years old;5;Natural Gas;Medium;ИСТИНА;5;30;1212;1212;4278
+1964;Siding;Metal;3;Electricity;Built-In Room Heater;>20 Years old;5;Electricity;Medium;ИСТИНА;-1;41;1218;544;15855
+1930;Composition;Asphalt;2;Natural Gas;Central Warm-Air Furnace;5-9 Years old;6;Natural Gas;Medium;ЛОЖЬ;-1;41;1008;0;2301
+1976;Brick;Composition Shingles;4;Electricity;Central Warm-Air Furnace;2-4 Years old;8;Natural Gas;Medium;ИСТИНА;8;42;2387;2387;3070
+1999;Siding;Composition Shingles;4;-;Central Warm-Air Furnace;10-14 Years old;10;Electricity;Large;ИСТИНА;10;60;4056;3351;7242
+2007;Stucco;Ceramic or Clay Tiles;5;-;Central Warm-Air Furnace;5-9 Years old;10;Natural Gas;Large;ИСТИНА;10;60;2992;2992;9994
+1955;Brick;Composition Shingles;4;Electricity;Heat Pump;5-9 Years old;8;Electricity;Large;ИСТИНА;8;42;3506;3506;21335
+2004;Siding;Asphalt;4;Propane/LPG;Heating Stove;5-9 Years old;7;Electricity;Medium;ИСТИНА;7;60;2400;2400;17925
+1975;Wood;Asphalt;4;Electricity;Central Warm-Air Furnace;>20 Years old;6;Natural Gas;Medium;ИСТИНА;-1;41;1967;169;4634
+1978;Brick;;2;Electricity;Central Warm-Air Furnace;10-14 Years old;4;Electricity;Medium;ИСТИНА;4;20;854;854;5196
+1940;Siding;Composition Shingles;4;Electricity;Central Warm-Air Furnace;>20 Years old;10;Natural Gas;Medium;ИСТИНА;10;41;2113;2113;12674
+1979;Stucco;Asphalt;4;Electricity;Central Warm-Air Furnace;>20 Years old;5;Natural Gas;Medium;ИСТИНА;5;30;2349;2349;7525
+1937;Siding;Slate;3;Electricity;Central Warm-Air Furnace;5-9 Years old;8;Electricity;Large;ИСТИНА;8;42;2150;2150;19823
+1960;Brick;;2;Electricity;Steam or Hot Water System;15-19 Years old;4;Electricity;Large;ИСТИНА;-1;20;976;488;4530
+1964;Stucco;Composition Shingles;5;-;Central Warm-Air Furnace;10-14 Years old;8;Natural Gas;Medium;ИСТИНА;5;41;2791;2442;14616
+1960;Brick;;1;Electricity;Steam or Hot Water System;5-9 Years old;3;Natural Gas;Medium;ИСТИНА;-1;10;493;164;2651
+2004;Brick;;3;Electricity;Central Warm-Air Furnace;5-9 Years old;5;Electricity;Large;ИСТИНА;5;20;1169;1169;18089
+1942;Brick;Wood Shingles;2;Natural Gas;Central Warm-Air Furnace;5-9 Years old;4;Electricity;Medium;ИСТИНА;4;30;1224;1224;15684
+1976;Wood;Composition Shingles;3;Electricity;Central Warm-Air Furnace;<2 Years old;6;Natural Gas;Medium;ИСТИНА;6;20;1472;1472;8104
+1975;Siding;Metal;1;Propane/LPG;;Not Applicable;-2;Electricity;Small;ЛОЖЬ;-1;20;0;0;3955
+2008;Siding;Composition Shingles;2;Electricity;Central Warm-Air Furnace;<2 Years old;4;Electricity;Medium;ИСТИНА;4;30;870;870;15387
+1930;Wood;Wood Shingles;2;Electricity;Built-In Room Heater;5-9 Years old;5;Electricity;Small;ЛОЖЬ;-1;30;1069;0;5795
+1986;Stucco;Wood Shingles;3;Electricity;Central Warm-Air Furnace;2-4 Years old;5;Natural Gas;Medium;ИСТИНА;5;30;1132;1132;8106
+1991;Stucco;Asphalt;4;Natural Gas;Central Warm-Air Furnace;15-19 Years old;4;Natural Gas;Medium;ЛОЖЬ;-1;41;1229;0;3244
+1950;Brick;;2;Natural Gas;Steam or Hot Water System;2-4 Years old;4;Propane/LPG;Large;ЛОЖЬ;-1;41;1022;0;6997
+1970;Siding;;1;Electricity;Central Warm-Air Furnace;15-19 Years old;4;Natural Gas;Large;ИСТИНА;4;20;922;922;7461
+2003;Siding;Wood Shingles;3;Propane/LPG;Other Equipment;5-9 Years old;2;Electricity;Small;ИСТИНА;2;41;529;529;6451
+1990;Wood;Composition Shingles;3;Electricity;Central Warm-Air Furnace;>20 Years old;5;Natural Gas;Small;ИСТИНА;5;41;1307;1307;5826
+1968;Stucco;;1;Natural Gas;Steam or Hot Water System;>20 Years old;3;Natural Gas;Large;ЛОЖЬ;-1;41;472;0;2099
+1955;Siding;Composition Shingles;4;Electricity;Heating Stove;2-4 Years old;6;Fuel Oil;Medium;ИСТИНА;-1;41;1713;857;7027
+1988;Siding;Composition Shingles;3;Electricity;Heat Pump;>20 Years old;6;Electricity;Medium;ИСТИНА;6;30;1605;1605;10985
+1970;Wood;Composition Shingles;2;Electricity;Central Warm-Air Furnace;10-14 Years old;4;Electricity;Large;ИСТИНА;4;41;1247;1247;11033
+1975;Stucco;Composition Shingles;2;Natural Gas;Floor or Wall Pipeless Furnace;>20 Years old;4;Natural Gas;Medium;ЛОЖЬ;-1;30;464;0;2962
+1941;Siding;Asphalt;4;Electricity;Central Warm-Air Furnace;10-14 Years old;8;Natural Gas;Large;ИСТИНА;-1;50;2984;1119;10833
+1950;Siding;Composition Shingles;3;Natural Gas;Central Warm-Air Furnace;2-4 Years old;6;Natural Gas;Medium;ИСТИНА;6;41;1255;1255;7896
+1961;Brick;Composition Shingles;3;Natural Gas;Central Warm-Air Furnace;5-9 Years old;5;Natural Gas;Medium;ИСТИНА;5;41;1190;1190;9713
+1997;Siding;Asphalt;3;Natural Gas;Central Warm-Air Furnace;10-14 Years old;5;Electricity;Medium;ИСТИНА;5;30;1216;1216;11986
+1984;Stucco;Composition Shingles;2;Natural Gas;;>20 Years old;-2;Natural Gas;Medium;ЛОЖЬ;-1;41;0;0;4991
+2006;Stucco;Asphalt;3;Electricity;Central Warm-Air Furnace;2-4 Years old;5;Electricity;Medium;ИСТИНА;5;20;1664;1664;14017
+1976;Stucco;;2;Electricity;Built-In Electric Units;<2 Years old;3;Propane/LPG;Large;ИСТИНА;-1;20;858;286;6563
+2001;Siding;Composition Shingles;3;Electricity;Heat Pump;5-9 Years old;7;Electricity;Medium;ИСТИНА;7;41;2122;2122;21321
+1970;Brick;Composition Shingles;4;-;Central Warm-Air Furnace;2-4 Years old;8;Natural Gas;Small;ИСТИНА;8;41;1738;1738;13656
+2002;Wood;;1;Electricity;Central Warm-Air Furnace;5-9 Years old;3;Electricity;None;ИСТИНА;3;10;576;576;3910
+1920;Siding;Composition Shingles;2;Electricity;Central Warm-Air Furnace;<2 Years old;5;Electricity;Medium;ИСТИНА;5;41;1650;1650;7323
+1967;Wood;Composition Shingles;3;-;Built-In Electric Units;>20 Years old;7;Electricity;Medium;ЛОЖЬ;-1;42;1674;0;30061
+1940;Siding;Asphalt;4;Electricity;Central Warm-Air Furnace;<2 Years old;8;Electricity;Medium;ИСТИНА;7;41;1810;1584;18869
+1955;Siding;Composition Shingles;3;Electricity;Heat Pump;<2 Years old;5;Electricity;Small;ИСТИНА;5;41;988;988;13160
+1985;Stucco;Wood Shingles;3;Electricity;Central Warm-Air Furnace;2-4 Years old;5;Natural Gas;Medium;ИСТИНА;5;30;1224;1224;11295
+1960;Siding;Asphalt;3;Electricity;Central Warm-Air Furnace;2-4 Years old;6;Natural Gas;Medium;ИСТИНА;6;30;1200;1200;10167
+1931;Wood;Composition Shingles;2;Electricity;Steam or Hot Water System;2-4 Years old;6;Fuel Oil;Medium;ИСТИНА;-1;42;1682;561;5268
+1965;Siding;Composition Shingles;3;Electricity;Central Warm-Air Furnace;>20 Years old;7;Natural Gas;Medium;ЛОЖЬ;-1;41;1008;0;7381
+2002;Stucco;Concrete Tiles;2;Natural Gas;Central Warm-Air Furnace;5-9 Years old;3;Natural Gas;Large;ИСТИНА;3;30;1448;1448;8736
+1990;Siding;;1;Electricity;Built-In Electric Units;15-19 Years old;2;Electricity;Medium;ЛОЖЬ;-1;10;284;0;9545
+1920;Wood;Composition Shingles;3;Natural Gas;Steam or Hot Water System;2-4 Years old;5;Natural Gas;Large;ИСТИНА;-1;41;744;595;7341
+1920;Wood;Asphalt;5;Electricity;Central Warm-Air Furnace;>20 Years old;6;Electricity;Large;ИСТИНА;7;50;1091;1273;13582
+1989;Stucco;Ceramic or Clay Tiles;3;Natural Gas;Central Warm-Air Furnace;>20 Years old;2;Natural Gas;Medium;ЛОЖЬ;-1;41;617;0;2875
+1940;Wood;Composition Shingles;3;Natural Gas;Heating Stove;15-19 Years old;5;Natural Gas;Medium;ЛОЖЬ;-1;30;953;0;4923
+1957;Siding;Composition Shingles;3;Electricity;Central Warm-Air Furnace;<2 Years old;7;Electricity;Large;ИСТИНА;7;50;1683;1683;13789
+1974;Brick;Composition Shingles;4;Electricity;Heat Pump;5-9 Years old;9;Electricity;Medium;ИСТИНА;9;42;2754;2754;18317
+2004;Siding;Asphalt;4;Electricity;Central Warm-Air Furnace;5-9 Years old;9;Natural Gas;Small;ИСТИНА;9;50;2540;2540;15863
+2007;Wood;Composition Shingles;3;Electricity;Central Warm-Air Furnace;2-4 Years old;5;Electricity;Large;ИСТИНА;5;41;992;992;4573
+1920;Wood;Metal;2;Electricity;Central Warm-Air Furnace;5-9 Years old;7;Electricity;Medium;ИСТИНА;7;42;2750;2750;14117
+1965;Wood;Composition Shingles;4;Electricity;;15-19 Years old;-2;Natural Gas;Large;ИСТИНА;11;41;0;1460;19352
+1980;Wood;Composition Shingles;3;Electricity;Central Warm-Air Furnace;5-9 Years old;7;Natural Gas;Small;ЛОЖЬ;-1;41;1344;0;3566
+1930;Wood;;1;Natural Gas;Steam or Hot Water System;>20 Years old;3;Natural Gas;Medium;ИСТИНА;-1;30;643;214;3339
+1998;Brick;Wood Shingles;4;Natural Gas;Central Warm-Air Furnace;10-14 Years old;7;Natural Gas;Medium;ЛОЖЬ;-1;41;1392;0;12493
+1971;Siding;Metal;3;Electricity;Central Warm-Air Furnace;10-14 Years old;5;Electricity;Medium;ИСТИНА;5;41;1152;1152;16246
+1941;Brick;Asphalt;2;Natural Gas;Heat Pump;5-9 Years old;7;Natural Gas;Medium;ИСТИНА;7;50;1458;1458;3750
+1970;Stucco;;2;Electricity;Central Warm-Air Furnace;5-9 Years old;5;Electricity;Large;ИСТИНА;5;41;1365;1365;8426
+1968;Siding;;1;Natural Gas;Central Warm-Air Furnace;<2 Years old;3;Natural Gas;Large;ЛОЖЬ;-1;20;559;0;2419
+1939;Wood;Composition Shingles;2;Electricity;Built-In Electric Units;>20 Years old;6;Electricity;Medium;ИСТИНА;-1;30;720;120;17948
+1920;Siding;Composition Shingles;4;Natural Gas;Central Warm-Air Furnace;>20 Years old;6;Natural Gas;Large;ИСТИНА;-1;41;1346;449;1974
+1979;Wood;Wood Shingles;3;Electricity;Heat Pump;2-4 Years old;6;Electricity;Medium;ИСТИНА;6;50;1260;1260;18893
+2003;Stucco;Concrete Tiles;3;-;Heat Pump;5-9 Years old;6;Electricity;Medium;ИСТИНА;6;50;4255;4255;17907
+1997;Brick;;2;Electricity;Central Warm-Air Furnace;5-9 Years old;5;Natural Gas;Medium;ИСТИНА;5;42;1017;1017;3306
+1965;Brick;;1;Electricity;Central Warm-Air Furnace;>20 Years old;3;Electricity;Medium;ИСТИНА;3;20;649;649;11087
+1995;Brick;Composition Shingles;4;Electricity;Central Warm-Air Furnace;10-14 Years old;6;Natural Gas;Large;ИСТИНА;6;41;4373;4373;10477
+1920;Brick;;-2;Electricity;Central Warm-Air Furnace;5-9 Years old;1;Natural Gas;Medium;ИСТИНА;1;10;466;466;3882
+1965;Brick;Asphalt;3;Natural Gas;Built-In Room Heater;10-14 Years old;6;Natural Gas;Large;ИСТИНА;6;50;1290;1290;11476
+2005;Concrete;Asphalt;4;Electricity;Heat Pump;5-9 Years old;8;Electricity;Medium;ИСТИНА;8;41;3450;3450;22076
+1963;Siding;Composition Shingles;4;-;Central Warm-Air Furnace;5-9 Years old;8;Natural Gas;Medium;ИСТИНА;8;50;3761;3400;6959
+2001;Siding;Composition Shingles;4;Natural Gas;Central Warm-Air Furnace;5-9 Years old;9;Natural Gas;Large;ИСТИНА;9;50;3046;3046;12853
+2005;Brick;;1;Electricity;Central Warm-Air Furnace;5-9 Years old;3;Electricity;Medium;ИСТИНА;3;20;870;870;11086
+1921;Stucco;Composition Shingles;4;-;Steam or Hot Water System;15-19 Years old;8;Natural Gas;Medium;ЛОЖЬ;-1;60;2262;0;9123
+1978;Brick;Composition Shingles;4;Natural Gas;Central Warm-Air Furnace;10-14 Years old;7;Natural Gas;Medium;ИСТИНА;7;50;4171;4171;22660
+1967;Siding;Composition Shingles;4;Natural Gas;Central Warm-Air Furnace;5-9 Years old;8;Natural Gas;Medium;ИСТИНА;8;30;2374;2374;13663
+1997;Stucco;;2;Natural Gas;Central Warm-Air Furnace;5-9 Years old;1;Natural Gas;Small;ИСТИНА;4;20;229;915;6621
+1984;Wood;Composition Shingles;4;Electricity;Built-In Electric Units;5-9 Years old;6;Electricity;Large;ЛОЖЬ;-1;41;1256;0;24513
+1989;Siding;Composition Shingles;3;Electricity;Heat Pump;10-14 Years old;5;Electricity;Large;ИСТИНА;5;30;3360;3360;21234
+1989;Wood;;2;Electricity;Central Warm-Air Furnace;10-14 Years old;5;Natural Gas;Small;ИСТИНА;5;20;722;722;3354
+1984;Brick;Asphalt;3;Propane/LPG;Built-In Electric Units;2-4 Years old;4;Propane/LPG;None;ИСТИНА;5;30;1042;1302;12722
+1968;Wood;Composition Shingles;3;Natural Gas;Central Warm-Air Furnace;5-9 Years old;6;Natural Gas;Large;ИСТИНА;6;50;1469;1469;5133
+2005;Brick;Composition Shingles;3;Electricity;Central Warm-Air Furnace;5-9 Years old;8;Natural Gas;Large;ИСТИНА;8;50;4388;4388;17880
+1920;Composition;Composition Shingles;4;Electricity;Central Warm-Air Furnace;>20 Years old;6;Fuel Oil;None;ИСТИНА;-1;50;1836;306;5883
+1990;Brick;;1;Natural Gas;Central Warm-Air Furnace;15-19 Years old;3;Natural Gas;Medium;ИСТИНА;3;20;787;787;4268
+1946;Wood;Asphalt;4;Electricity;Central Warm-Air Furnace;>20 Years old;6;Natural Gas;Large;ИСТИНА;6;50;1470;1470;12995
+1932;Siding;Wood Shingles;4;Natural Gas;Central Warm-Air Furnace;2-4 Years old;8;Natural Gas;None;ИСТИНА;8;30;1046;1046;10311
+1940;Siding;Asphalt;2;Natural Gas;Central Warm-Air Furnace;5-9 Years old;5;Natural Gas;Large;ЛОЖЬ;-1;41;881;0;2531
+1982;Siding;Composition Shingles;3;Electricity;Central Warm-Air Furnace;>20 Years old;8;Natural Gas;Medium;ИСТИНА;8;30;3020;3020;9093
+1920;Siding;Composition Shingles;2;Electricity;Central Warm-Air Furnace;15-19 Years old;5;Electricity;Medium;ИСТИНА;-1;41;800;160;9283
+2009;Brick;Composition Shingles;3;Electricity;Central Warm-Air Furnace;<2 Years old;5;Electricity;Small;ИСТИНА;5;42;1750;1750;20843
+1980;Wood;Composition Shingles;3;Natural Gas;Central Warm-Air Furnace;>20 Years old;5;Natural Gas;Large;ИСТИНА;5;20;1783;1783;13645
+1950;Siding;Asphalt;3;Propane/LPG;Central Warm-Air Furnace;2-4 Years old;7;Propane/LPG;Small;ЛОЖЬ;-1;50;2552;0;9165
+1965;Stucco;Composition Shingles;3;Natural Gas;;>20 Years old;-2;Natural Gas;Medium;ЛОЖЬ;-1;30;0;0;6354
+1979;Wood;Asphalt;3;Natural Gas;Central Warm-Air Furnace;>20 Years old;6;Natural Gas;Medium;ИСТИНА;6;41;2496;2496;7823
+1972;Brick;;2;Natural Gas;Central Warm-Air Furnace;5-9 Years old;4;Natural Gas;Large;ИСТИНА;4;30;1069;1069;4529
+1928;Siding;;2;Electricity;Built-In Electric Units;>20 Years old;1;Electricity;Small;ЛОЖЬ;-1;20;289;0;4171
+1959;Siding;Composition Shingles;3;-;Central Warm-Air Furnace;2-4 Years old;6;Electricity;Large;ЛОЖЬ;-1;0;2240;0;8279
+1952;Composition;Asphalt;3;Electricity;Steam or Hot Water System;5-9 Years old;5;Fuel Oil;Small;ИСТИНА;-1;41;1104;442;10719
+1982;Wood;Asphalt;4;Electricity;Built-In Electric Units;10-14 Years old;8;Electricity;Medium;ИСТИНА;-1;41;2688;504;23001
+1975;Concrete;;1;Electricity;Built-In Electric Units;>20 Years old;3;Natural Gas;Medium;ИСТИНА;3;10;600;600;7008
+1950;Brick;Concrete Tiles;2;Electricity;Central Warm-Air Furnace;10-14 Years old;4;Electricity;Large;ИСТИНА;4;10;1248;1248;15445
+1976;Brick;;2;Electricity;Central Warm-Air Furnace;>20 Years old;5;Natural Gas;Large;ИСТИНА;-1;30;1244;249;6202
+2005;Siding;Composition Shingles;3;Electricity;Central Warm-Air Furnace;2-4 Years old;6;Electricity;Medium;ИСТИНА;6;30;1296;1296;9129
+1960;Brick;;2;Natural Gas;Central Warm-Air Furnace;>20 Years old;3;Natural Gas;Large;ИСТИНА;3;30;684;684;8397
+1976;Siding;Composition Shingles;3;-;Central Warm-Air Furnace;2-4 Years old;7;Electricity;Large;ЛОЖЬ;-1;42;2112;0;29569
+2002;Siding;Wood Shingles;3;Natural Gas;Central Warm-Air Furnace;5-9 Years old;6;Natural Gas;Large;ИСТИНА;6;30;2636;2636;8890
+1994;Stucco;Asphalt;3;Propane/LPG;Central Warm-Air Furnace;15-19 Years old;5;Propane/LPG;Medium;ЛОЖЬ;-1;60;1298;0;7637
+1999;Brick;Composition Shingles;3;Electricity;Central Warm-Air Furnace;15-19 Years old;6;Electricity;Small;ИСТИНА;6;20;1422;1422;14625
+1978;Siding;Asphalt;2;-;Central Warm-Air Furnace;10-14 Years old;5;Electricity;Small;ИСТИНА;5;41;1037;1037;6198
+1972;Brick;Composition Shingles;3;Electricity;Central Warm-Air Furnace;10-14 Years old;6;Natural Gas;Medium;ИСТИНА;6;30;1576;1576;10558
+1988;Siding;Asphalt;4;Electricity;Steam or Hot Water System;>20 Years old;9;Fuel Oil;Large;ИСТИНА;-1;50;2943;654;12792
+1964;Siding;Composition Shingles;3;Natural Gas;Steam or Hot Water System;>20 Years old;6;Natural Gas;Large;ИСТИНА;4;41;2538;1692;4426
+1980;Siding;;3;Electricity;Central Warm-Air Furnace;5-9 Years old;6;Electricity;Medium;ИСТИНА;6;30;1616;1616;13086
+1956;Siding;Composition Shingles;4;Electricity;Central Warm-Air Furnace;10-14 Years old;6;Natural Gas;Medium;ИСТИНА;6;41;830;830;11297
+1984;Siding;Metal;2;Electricity;Portable Electric Heaters;5-9 Years old;2;Electricity;Medium;ИСТИНА;4;30;428;855;11233
+1920;Brick;Composition Shingles;5;Propane/LPG;Fireplace;5-9 Years old;5;Electricity;Medium;ИСТИНА;-1;42;1889;1133;14759
+1993;Wood;Composition Shingles;4;Electricity;Central Warm-Air Furnace;2-4 Years old;11;Natural Gas;Large;ИСТИНА;11;42;3859;3859;17984
+2005;Wood;Composition Shingles;2;Natural Gas;Central Warm-Air Furnace;5-9 Years old;4;Natural Gas;Medium;ИСТИНА;4;41;850;850;9054
+1975;Wood;;2;Natural Gas;Central Warm-Air Furnace;2-4 Years old;4;Natural Gas;Medium;ИСТИНА;4;20;788;788;8305
+1990;Siding;Asphalt;2;Electricity;Steam or Hot Water System;2-4 Years old;3;Electricity;Medium;ИСТИНА;-1;41;938;313;4542
+1993;Siding;Composition Shingles;5;Natural Gas;Central Warm-Air Furnace;15-19 Years old;8;Natural Gas;Medium;ИСТИНА;7;42;2720;2380;19038
+1974;Wood;Asphalt;3;-;Central Warm-Air Furnace;5-9 Years old;6;Electricity;Large;ИСТИНА;6;50;5600;5600;20316
+1969;Concrete;;1;Electricity;;Not Applicable;-2;Electricity;Large;ЛОЖЬ;-1;30;0;0;1081
+1982;Brick;Wood Shingles;4;-;Central Warm-Air Furnace;5-9 Years old;5;Electricity;Medium;ИСТИНА;5;20;3904;3904;20896
+1986;Stucco;;1;Electricity;Central Warm-Air Furnace;5-9 Years old;3;Electricity;None;ИСТИНА;3;20;797;797;5620
+1980;Wood;Composition Shingles;3;Electricity;Central Warm-Air Furnace;15-19 Years old;6;Electricity;Medium;ИСТИНА;6;41;1600;1600;17383
+1950;Siding;Metal;2;Electricity;Heat Pump;2-4 Years old;5;Electricity;Small;ИСТИНА;5;30;2386;2386;24212
+1954;Stucco;Wood Shingles;3;Natural Gas;Heat Pump;>20 Years old;6;Natural Gas;Large;ИСТИНА;5;30;1328;1328;11230
+2004;Siding;Composition Shingles;5;Electricity;Central Warm-Air Furnace;5-9 Years old;9;Natural Gas;Medium;ИСТИНА;9;50;2640;2640;22587
+1997;Siding;Composition Shingles;3;Electricity;Heat Pump;10-14 Years old;4;Electricity;Large;ИСТИНА;4;41;2819;1717;23275
+1930;Wood;Asphalt;2;Electricity;Central Warm-Air Furnace;>20 Years old;6;Natural Gas;Medium;ИСТИНА;-1;41;2365;465;7175
+1960;Wood;Wood Shingles;2;Natural Gas;Central Warm-Air Furnace;5-9 Years old;8;Natural Gas;Large;ИСТИНА;8;41;2704;2704;10488
+1965;Siding;Composition Shingles;2;Natural Gas;Central Warm-Air Furnace;>20 Years old;5;Natural Gas;Medium;ИСТИНА;4;41;1106;858;5957
+1964;Brick;Asphalt;3;Electricity;Central Warm-Air Furnace;>20 Years old;7;Natural Gas;Large;ИСТИНА;7;41;2160;2160;9429
+1982;Concrete;Composition Shingles;3;Natural Gas;Central Warm-Air Furnace;5-9 Years old;5;Electricity;Small;ИСТИНА;-1;20;884;530;4843
+1945;Brick;Composition Shingles;3;Natural Gas;Central Warm-Air Furnace;>20 Years old;6;Natural Gas;Small;ЛОЖЬ;-1;41;884;0;7706
+1985;Brick;Composition Shingles;3;Electricity;Heat Pump;>20 Years old;5;Electricity;Small;ИСТИНА;5;41;672;672;11137
+1986;Wood;Composition Shingles;3;Electricity;Central Warm-Air Furnace;10-14 Years old;5;Electricity;Medium;ИСТИНА;5;30;2150;2150;13873
+1921;Siding;Asphalt;2;Electricity;Central Warm-Air Furnace;5-9 Years old;5;Electricity;Medium;ИСТИНА;5;30;1298;1298;8187
+1940;Composition;Asphalt;3;Electricity;Central Warm-Air Furnace;>20 Years old;3;Electricity;Medium;ИСТИНА;3;41;1043;735;15578
+1970;Brick;Composition Shingles;3;Electricity;Central Warm-Air Furnace;5-9 Years old;6;Electricity;Large;ИСТИНА;6;41;2061;2061;16172
+1980;Brick;;3;Electricity;Central Warm-Air Furnace;>20 Years old;5;Electricity;Medium;ИСТИНА;5;20;1055;1055;11254
+1992;Stucco;Composition Shingles;1;Electricity;Central Warm-Air Furnace;15-19 Years old;4;Electricity;Small;ИСТИНА;4;20;854;854;5598
+1994;Brick;Composition Shingles;5;-;Central Warm-Air Furnace;<2 Years old;10;Electricity;Large;ИСТИНА;10;60;3447;3447;48926
+1997;Siding;Composition Shingles;3;Electricity;Central Warm-Air Furnace;15-19 Years old;6;Natural Gas;None;ИСТИНА;6;41;2148;2148;9398
+1920;Siding;Asphalt;4;Electricity;Heating Stove;2-4 Years old;7;Electricity;Medium;ИСТИНА;-1;42;1944;555;41373
+1984;Siding;Metal;2;Electricity;Heating Stove;10-14 Years old;4;Electricity;Medium;ЛОЖЬ;-1;30;1824;0;5982
+1978;Brick;Composition Shingles;4;Electricity;Central Warm-Air Furnace;>20 Years old;6;Electricity;Medium;ИСТИНА;6;42;4349;3341;24285
+1950;Stucco;Composition Shingles;3;-;Central Warm-Air Furnace;5-9 Years old;6;Natural Gas;Large;ЛОЖЬ;-1;41;1862;0;4852
+1977;Siding;;2;-;;>20 Years old;-2;Natural Gas;Large;ИСТИНА;-1;20;0;231;2413
+1946;Stucco;Composition Shingles;4;-;Central Warm-Air Furnace;>20 Years old;8;Natural Gas;Large;ИСТИНА;8;50;2750;2750;15552
+1929;Stucco;Composition Shingles;2;Natural Gas;Portable Electric Heaters;5-9 Years old;1;Natural Gas;Medium;ЛОЖЬ;-1;30;184;0;1308
+1938;Stucco;Composition Shingles;3;Natural Gas;;>20 Years old;-2;Natural Gas;Small;ЛОЖЬ;-1;50;0;0;1119
+1989;Wood;Composition Shingles;4;Natural Gas;Central Warm-Air Furnace;5-9 Years old;4;Electricity;None;ЛОЖЬ;-1;50;1494;0;4992
+1945;Stucco;Asphalt;2;Natural Gas;Floor or Wall Pipeless Furnace;10-14 Years old;4;Natural Gas;Large;ИСТИНА;-1;41;1116;279;4801
+1980;Concrete;;1;Electricity;Built-In Electric Units;10-14 Years old;3;Natural Gas;Large;ИСТИНА;3;10;624;624;4840
+1980;Wood;Wood Shingles;3;Electricity;Heat Pump;<2 Years old;6;Electricity;Medium;ИСТИНА;6;50;1600;1600;14706
+1950;Siding;Asphalt;3;Natural Gas;Central Warm-Air Furnace;10-14 Years old;6;Natural Gas;Medium;ИСТИНА;6;41;2304;2054;5321
+2005;Stucco;Composition Shingles;3;Electricity;Central Warm-Air Furnace;2-4 Years old;7;Electricity;Large;ИСТИНА;7;41;2840;2840;13031
+1972;Brick;;4;Natural Gas;Steam or Hot Water System;5-9 Years old;6;Natural Gas;Large;ЛОЖЬ;-1;30;1424;0;5236
+1987;Siding;Asphalt;3;Electricity;Central Warm-Air Furnace;>20 Years old;8;Natural Gas;Medium;ИСТИНА;-1;41;3036;196;9649
+1959;Brick;Composition Shingles;5;Electricity;Central Warm-Air Furnace;>20 Years old;7;Natural Gas;Medium;ИСТИНА;7;41;960;960;17102
+1986;Brick;Ceramic or Clay Tiles;3;Electricity;Central Warm-Air Furnace;>20 Years old;5;Electricity;Medium;ИСТИНА;5;30;1232;1232;24387
+1970;Stucco;Wood Shingles;3;Electricity;Central Warm-Air Furnace;2-4 Years old;5;Electricity;Medium;ЛОЖЬ;-1;30;1532;0;16249
+1996;Siding;Composition Shingles;3;-;Central Warm-Air Furnace;10-14 Years old;7;Natural Gas;Medium;ИСТИНА;7;41;2209;2209;14996
+2003;Stucco;Concrete Tiles;3;-;Central Warm-Air Furnace;5-9 Years old;5;Natural Gas;Large;ИСТИНА;5;30;2617;2617;11599
+1990;Stucco;Composition Shingles;3;Natural Gas;Central Warm-Air Furnace;15-19 Years old;1;Natural Gas;Large;ЛОЖЬ;-1;41;333;0;2900
+1975;Siding;;2;Electricity;Central Warm-Air Furnace;>20 Years old;3;Natural Gas;Medium;ИСТИНА;-1;30;762;508;6883
+1950;Brick;Other;3;Natural Gas;Steam or Hot Water System;>20 Years old;6;Fuel Oil;Small;ИСТИНА;-1;41;1484;408;9560
+1969;Brick;Composition Shingles;3;-;Central Warm-Air Furnace;10-14 Years old;8;Natural Gas;Large;ИСТИНА;8;42;1560;1560;20500
+1980;Siding;;1;Electricity;Built-In Electric Units;>20 Years old;3;Natural Gas;Medium;ЛОЖЬ;-1;20;544;0;2869
+2007;Brick;Composition Shingles;3;Electricity;Central Warm-Air Furnace;2-4 Years old;6;Electricity;Small;ИСТИНА;6;50;1558;1558;14019
+1992;Brick;Composition Shingles;3;-;Central Warm-Air Furnace;15-19 Years old;6;Natural Gas;Medium;ИСТИНА;6;41;1780;1780;13531
+1985;Stucco;Ceramic or Clay Tiles;5;Electricity;Central Warm-Air Furnace;10-14 Years old;8;Electricity;Large;ИСТИНА;8;50;5785;6185;55857
+1986;Siding;Composition Shingles;4;Electricity;Central Warm-Air Furnace;2-4 Years old;9;Natural Gas;Large;ИСТИНА;9;50;3740;3740;7037
+1972;Wood;;2;Electricity;Central Warm-Air Furnace;15-19 Years old;5;Electricity;Small;ИСТИНА;5;10;568;568;18450
+1939;Wood;Asphalt;3;Electricity;Central Warm-Air Furnace;10-14 Years old;6;Natural Gas;Small;ИСТИНА;6;42;4793;4793;4500
+1997;Siding;Composition Shingles;3;Electricity;Built-In Electric Units;10-14 Years old;5;Electricity;Medium;ЛОЖЬ;-1;30;1517;0;24586
+1960;Stucco;;3;Natural Gas;;Not Applicable;-2;Natural Gas;Medium;ИСТИНА;-1;30;0;193;3643
+1972;Brick;Composition Shingles;3;Electricity;Central Warm-Air Furnace;<2 Years old;6;Electricity;Medium;ИСТИНА;6;41;1596;1596;15762
+1990;Stucco;Slate;3;Natural Gas;Central Warm-Air Furnace;15-19 Years old;6;Natural Gas;Medium;ЛОЖЬ;-1;41;3024;0;4947
+1960;Siding;Wood Shingles;3;Natural Gas;Central Warm-Air Furnace;>20 Years old;7;Natural Gas;Medium;ИСТИНА;7;30;1022;1022;5513
+1975;Brick;;-2;Natural Gas;;>20 Years old;-2;Natural Gas;Large;ЛОЖЬ;-1;0;0;0;4606
+1986;Brick;Composition Shingles;3;Electricity;Heat Pump;2-4 Years old;7;Electricity;Medium;ИСТИНА;7;42;1656;1656;13502
+1960;Brick;Composition Shingles;4;Electricity;Central Warm-Air Furnace;2-4 Years old;7;Natural Gas;Medium;ИСТИНА;7;41;2060;1010;15589
+1975;Stucco;Composition Shingles;2;Electricity;Central Warm-Air Furnace;>20 Years old;4;Natural Gas;Medium;ИСТИНА;4;42;1250;1250;5751
+1950;Brick;Composition Shingles;2;Natural Gas;Central Warm-Air Furnace;>20 Years old;5;Natural Gas;Medium;ИСТИНА;5;41;1497;1510;10226
+1978;Brick;Composition Shingles;4;-;Central Warm-Air Furnace;10-14 Years old;9;Electricity;Medium;ИСТИНА;9;41;1900;1900;20770
+1975;Stucco;Composition Shingles;3;Electricity;Central Warm-Air Furnace;10-14 Years old;7;Natural Gas;Large;ИСТИНА;7;41;2360;2360;14017
+1964;Wood;Asphalt;3;Natural Gas;Built-In Room Heater;>20 Years old;5;Natural Gas;Large;ЛОЖЬ;-1;41;2950;0;5523
+1988;Wood;Ceramic or Clay Tiles;4;-;;>20 Years old;-2;Natural Gas;Large;ЛОЖЬ;-1;41;0;0;11321
+2000;Brick;;1;Natural Gas;Steam or Hot Water System;5-9 Years old;2;Natural Gas;Large;ИСТИНА;-1;20;446;446;701
+1946;Siding;Composition Shingles;3;Natural Gas;Central Warm-Air Furnace;>20 Years old;7;Natural Gas;Medium;ИСТИНА;-1;42;1610;223;10232
+2006;Stucco;Composition Shingles;4;-;Heat Pump;2-4 Years old;8;Electricity;Large;ИСТИНА;8;41;6451;6451;30686
+1992;Siding;Wood Shingles;3;Natural Gas;Central Warm-Air Furnace;10-14 Years old;5;Electricity;Small;ИСТИНА;5;41;1280;1280;22261
+1993;Brick;Composition Shingles;4;-;Central Warm-Air Furnace;15-19 Years old;10;Natural Gas;Large;ИСТИНА;10;60;6124;3523;13717
+1984;Stucco;Composition Shingles;3;Electricity;Central Warm-Air Furnace;>20 Years old;2;Electricity;Medium;ИСТИНА;3;41;823;1234;10682
+1999;Siding;Asphalt;3;Electricity;Central Warm-Air Furnace;10-14 Years old;7;Natural Gas;Medium;ИСТИНА;7;42;2754;2754;15923
+1930;Brick;Composition Shingles;3;Electricity;Central Warm-Air Furnace;10-14 Years old;6;Natural Gas;Medium;ИСТИНА;6;30;829;829;8587
+2005;Siding;Composition Shingles;3;Electricity;Central Warm-Air Furnace;2-4 Years old;6;Electricity;Large;ИСТИНА;6;30;2152;2152;6988
+1987;Siding;Composition Shingles;3;Electricity;Heat Pump;5-9 Years old;4;Electricity;Medium;ИСТИНА;4;30;1237;1237;14345
+1957;Stucco;Composition Shingles;3;Natural Gas;;>20 Years old;-2;Natural Gas;Medium;ИСТИНА;-1;30;0;401;7219
+1986;Stucco;Composition Shingles;2;Electricity;Heat Pump;2-4 Years old;5;Electricity;Medium;ЛОЖЬ;-1;30;1510;0;8177
+1971;Wood;Composition Shingles;4;Electricity;Built-In Electric Units;>20 Years old;8;Electricity;Medium;ЛОЖЬ;-1;41;2681;0;37580
+1920;Siding;Composition Shingles;4;Electricity;Central Warm-Air Furnace;10-14 Years old;6;Electricity;Large;ИСТИНА;5;30;1141;1141;9402
+1997;Concrete;Wood Shingles;3;Electricity;Central Warm-Air Furnace;10-14 Years old;5;Electricity;Medium;ИСТИНА;5;41;1275;1275;16092
+1995;Siding;Composition Shingles;3;Electricity;Central Warm-Air Furnace;10-14 Years old;5;Electricity;Medium;ИСТИНА;5;30;1138;1138;12557
+1963;Siding;Composition Shingles;3;-;Central Warm-Air Furnace;5-9 Years old;9;Natural Gas;Medium;ИСТИНА;9;42;2548;2548;8357
+1968;Wood;Composition Shingles;2;Electricity;Central Warm-Air Furnace;5-9 Years old;4;Natural Gas;Medium;ИСТИНА;4;20;1472;1472;5846
+1987;Siding;Composition Shingles;3;Electricity;Heat Pump;>20 Years old;6;Electricity;Large;ИСТИНА;6;41;1649;1649;10602
+1966;Brick;Composition Shingles;4;-;Steam or Hot Water System;5-9 Years old;10;Fuel Oil;None;ИСТИНА;5;50;3380;1117;14284
+1965;Other;Composition Shingles;3;Natural Gas;Central Warm-Air Furnace;5-9 Years old;5;Natural Gas;Medium;ИСТИНА;5;41;1620;1620;13439
+1980;Stucco;Composition Shingles;3;Natural Gas;Built-In Room Heater;2-4 Years old;2;Natural Gas;Medium;ИСТИНА;-1;41;540;270;2630
+2003;Siding;Composition Shingles;3;Electricity;Central Warm-Air Furnace;5-9 Years old;6;Natural Gas;Small;ИСТИНА;-1;41;1879;313;5131
+1997;Brick;Asphalt;4;Electricity;Central Warm-Air Furnace;10-14 Years old;9;Natural Gas;Large;ИСТИНА;9;50;3590;3590;13006
+1920;Brick;Composition Shingles;3;Natural Gas;Central Warm-Air Furnace;15-19 Years old;8;Natural Gas;Large;ЛОЖЬ;-1;50;1826;0;5239
+2004;Concrete;Composition Shingles;3;Electricity;Heat Pump;5-9 Years old;8;Electricity;Large;ИСТИНА;8;50;5228;5228;21410
+2005;Siding;Asphalt;2;Electricity;Heat Pump;5-9 Years old;4;Electricity;Medium;ИСТИНА;4;30;1440;1440;10199
+1995;Brick;;2;Electricity;Central Warm-Air Furnace;10-14 Years old;5;Natural Gas;Medium;ИСТИНА;5;60;1251;1251;5068
+1979;Stucco;Composition Shingles;2;Natural Gas;;<2 Years old;-2;Natural Gas;Medium;ЛОЖЬ;-1;30;0;0;4038
+1947;Stucco;Composition Shingles;2;Natural Gas;Floor or Wall Pipeless Furnace;>20 Years old;4;Natural Gas;Medium;ИСТИНА;-1;41;1066;267;6935
+1974;Brick;Composition Shingles;3;Natural Gas;Central Warm-Air Furnace;>20 Years old;7;Natural Gas;Medium;ИСТИНА;7;41;3480;3480;12139
+1975;Wood;;2;Electricity;Central Warm-Air Furnace;<2 Years old;4;Natural Gas;Small;ИСТИНА;4;50;884;884;4365
+1988;Concrete;Wood Shingles;4;Propane/LPG;Heat Pump;5-9 Years old;5;Propane/LPG;Large;ИСТИНА;5;30;1706;1706;18139
+1927;Wood;Asphalt;2;Electricity;Central Warm-Air Furnace;5-9 Years old;5;Electricity;Medium;ИСТИНА;5;41;1044;1044;10409
+1980;Brick;;1;Electricity;Central Warm-Air Furnace;10-14 Years old;3;Electricity;Large;ИСТИНА;3;20;1100;1100;11327
+1974;Siding;Composition Shingles;3;Electricity;Central Warm-Air Furnace;<2 Years old;6;Electricity;Large;ИСТИНА;6;41;1395;1395;44225
+1959;Stucco;Composition Shingles;3;Natural Gas;;5-9 Years old;-2;Natural Gas;Medium;ЛОЖЬ;-1;41;0;0;8251
+1929;Wood;Composition Shingles;3;Electricity;Central Warm-Air Furnace;10-14 Years old;5;Natural Gas;Large;ЛОЖЬ;-1;41;1122;0;12368
+1978;Siding;Metal;2;Electricity;Central Warm-Air Furnace;>20 Years old;5;Natural Gas;Small;ИСТИНА;5;30;816;816;4407
+1999;Siding;Metal;3;Electricity;Central Warm-Air Furnace;10-14 Years old;5;Electricity;Medium;ИСТИНА;5;41;1280;1280;4798
