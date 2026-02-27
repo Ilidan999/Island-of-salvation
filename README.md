@@ -40,7 +40,7 @@
 | **01** | **Встраивание моделей компьютерного зрения в веб-приложение (Django)**  | ![Done](https://img.shields.io/badge/-Готово-success?style=flat-square) |
 | **02** | **Встраивание моделей компьютерного зрения в веб-приложение (FastAPI)** | ![Done](https://img.shields.io/badge/-Готово-success?style=flat-square) |
 | **03** | **Лабораторная работа №3 (Streamlit)** | ![Done](https://img.shields.io/badge/-Готово-success?style=flat-square) |
-| **04** | **Лабораторная работа №4 (telegrambot)** | ![Done](https://img.shields.io/badge/-Готово-success?style=flat-square) |
+| **04** | **Лабораторная работа №4 (telegrambot)** | ![Plan](https://img.shields.io/badge/-В_планах-lightgrey?style=flat-square) |
 
 ### 🤖 Модуль: Машинное обучение
 
