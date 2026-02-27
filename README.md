@@ -49,7 +49,8 @@
 | **02** | **Статистика.** Выбросы и доверительный интервал | ![Done](https://img.shields.io/badge/-Готово-success?style=flat-square) |
 | **03** | **Статистика.** Нормальное распределение | ![Done](https://img.shields.io/badge/-Готово-success?style=flat-square) |
 | **04** | **Статистика.** Сравнение групп | ![Done](https://img.shields.io/badge/-Готово-success?style=flat-square) |
-| **05** | **В планах.** | ![Plan](https://img.shields.io/badge/-В_планах-lightgrey?style=flat-square) |
+| **05** | **Машинное обучение.** Введение | ![Done](https://img.shields.io/badge/-Готово-success?style=flat-square) |
+| **06** | **В планах.**  | ![Plan](https://img.shields.io/badge/-В_планах-lightgrey?style=flat-square) |
 
 ----
 
