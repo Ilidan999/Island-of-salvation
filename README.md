@@ -41,6 +41,7 @@
 | **02** | **Встраивание моделей компьютерного зрения в веб-приложение (FastAPI)** | ![Done](https://img.shields.io/badge/-Готово-success?style=flat-square) |
 | **03** | **Лабораторная работа №3 (Streamlit)** | ![Done](https://img.shields.io/badge/-Готово-success?style=flat-square) |
 | **04** | **Лабораторная работа №4 (telegrambot)** | ![Plan](https://img.shields.io/badge/-В_планах-lightgrey?style=flat-square) |
+| **05** | **Лабораторная работа №5 (Flask)** | ![Plan](https://img.shields.io/badge/-В_планах-lightgrey?style=flat-square) |
 
 ### 🤖 Модуль: Машинное обучение
 
@@ -50,8 +51,9 @@
 | **02** | **Статистика.** Выбросы и доверительный интервал | ![Done](https://img.shields.io/badge/-Готово-success?style=flat-square) |
 | **03** | **Статистика.** Нормальное распределение | ![Done](https://img.shields.io/badge/-Готово-success?style=flat-square) |
 | **04** | **Статистика.** Сравнение групп | ![Done](https://img.shields.io/badge/-Готово-success?style=flat-square) |
-| **05** | **Машинное обучение.** Введение | ![Plan](https://img.shields.io/badge/-В_планах-lightgrey?style=flat-square) |
-| **06** | **В планах.**  | ![Plan](https://img.shields.io/badge/-В_планах-lightgrey?style=flat-square) |
+| **05** | **Машинное обучение.** Введение | ![Done](https://img.shields.io/badge/-Готово-success?style=flat-square) |
+| **06** | **Генерация признаков.**  | ![Done](https://img.shields.io/badge/-Готово-success?style=flat-square) |
+| **07** | **Линейная регрессия.**  | ![Plan](https://img.shields.io/badge/-В_планах-lightgrey?style=flat-square) |
 
 ----
 
